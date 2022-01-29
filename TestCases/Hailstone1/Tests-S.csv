@@ -1,0 +1,14 @@
+TestName,TestType,Property
+ASE1,1,vT(Y) == vZ(X1) / 2
+ASE2,1,vT(Y) == 3 *  vZ(X1) + 1
+ASE3,1,vT(Y) == 0
+ASE4,1,vT(PO) + vT(PE) == 1
+M9,1,vT(H) == 0 || vT(H) == 1
+M10,1,vT(M) == 0
+M11,1,vT(B) < 3
+M12,1,vT(A) > vT(B)
+M14,1,vT(A) == 0 || vT(A) == 3 * vT(X1) + 1
+ASE7,2,vT2(Y) > vT1(Y)
+ASE8,2,vT2(Y) < vT1(Y)
+M15,2,vT2(Y) > vT1(Y)
+M16,2,vT2(Y) < vT1(Y)

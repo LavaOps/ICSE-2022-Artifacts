@@ -1,0 +1,28 @@
+Flows (== constant):
+	+2 cpd00079_c0_ +2 cpd00089_c0_ +1 cpd00102_c0_ -1 cpd11621_c0_ +2 cpd00072_c0_ +2 cpd00290_c0_ +1 cpd00095_c0_ +1 cpd00004_c0_ 
+	+2 cpd00008_c0_ +2 cpd00020_c0_ +2 cpd00029_c0_ -1 cpd00102_c0_ +1 cpd11621_c0_ -2 cpd00290_c0_ -1 cpd00095_c0_ +1 cpd00004_c0_ -2 cpd00203_c0_ 
+	+1 cpd00061_c0_ +1 cpd00020_c0_ -1 cpd00001_c0_ +1 cpd11621_c0_ 
+	+2 cpd00067_c0_ +2 cpd00020_c0_ -1 cpd00102_c0_ +7 cpd11621_c0_ -2 cpd00290_c0_ -1 cpd00095_c0_ -3 cpd00004_c0_ 
+	+2 cpd00002_c0_ -2 cpd00020_c0_ -2 cpd00029_c0_ +1 cpd00102_c0_ -1 cpd11621_c0_ +2 cpd00290_c0_ +1 cpd00095_c0_ -1 cpd00004_c0_ +2 cpd00203_c0_ 
+	+1 cpd00009_c0_ +1 cpd00029_c0_ +1 cpd00004_c0_ 
+	+1 cpd00022_c0_ +1 cpd00029_c0_ 
+	+1 cpd00010_c0_ -1 cpd00029_c0_ 
+	+1 cpd00169_c0_ +1 cpd00001_c0_ -1 cpd00004_c0_ +1 cpd00203_c0_ +1 cpd00482_c0_ 
+	+1 cpd11620_c0_ +1 cpd11621_c0_ 
+	+1 cpd00003_c0_ +1 cpd00004_c0_ 
+
+Inequalities (remove reactions, <= constant):
+	+1 Reaction1 -1 cpd00089_c0_ 
+	+1 Reaction10 -1 cpd00020_c0_ 
+	+1 Reaction11 -1 cpd00029_c0_ 
+	+1 Reaction12 -1 cpd11621_c0_ 
+	+2 Reaction2 -1 cpd00102_c0_ +1 cpd11621_c0_ -2 cpd00072_c0_ -2 cpd00290_c0_ -1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+2 Reaction3 -1 cpd00102_c0_ +1 cpd11621_c0_ -2 cpd00290_c0_ -1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+2 Reaction4 -1 cpd00102_c0_ +1 cpd11621_c0_ +1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+2 Reaction5 -1 cpd00102_c0_ +1 cpd11621_c0_ -1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+1 Reaction6 -1 cpd00004_c0_ 
+	+1 Reaction7 -1 cpd00004_c0_ +1 cpd00203_c0_ 
+	+1 Reaction8 -1 cpd00001_c0_ +1 cpd11621_c0_ -1 cpd00482_c0_ 
+	+1 Reaction9 -1 cpd00001_c0_ +1 cpd11621_c0_ 
+
+Irreducibles:

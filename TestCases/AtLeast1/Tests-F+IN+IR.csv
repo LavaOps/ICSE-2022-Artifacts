@@ -1,0 +1,8 @@
+TestName,TestType,Property
+A1,1,(1)*vT(F1) + (1)*vT(F1P) + (1)*vT(Y) == (1)*vZ(F1) + (1)*vZ(F1P) + (1)*vZ(Y)
+A2,1,(1)*vT(F2) + (1)*vT(F2P) + (1)*vT(Y) == (1)*vZ(F2) + (1)*vZ(F2P) + (1)*vZ(Y)
+A3,1,(1)*vT(A1) + (1)*vT(Reaction1) == (1)*vZ(A1) + (1)*vZ(Reaction1)
+A4,1,(-1)*vT(A1) + (-1)*vT(F1P) + (1)*vT(Reaction2) + (-1)*vT(Y) == (-1)*vZ(A1) + (-1)*vZ(F1P) + (1)*vZ(Reaction2) + (-1)*vZ(Y)
+A5,1,(1)*vT(A2) + (1)*vT(Reaction3) == (1)*vZ(A2) + (1)*vZ(Reaction3)
+A6,1,(-1)*vT(A2) + (-1)*vT(F2P) + (1)*vT(Reaction4) + (-1)*vT(Y) == (-1)*vZ(A2) + (-1)*vZ(F2P) + (1)*vZ(Reaction4) + (-1)*vZ(Y)
+A7,1,(1)*vT(Reaction5) + (-1)*vT(Y) == (1)*vZ(Reaction5) + (-1)*vZ(Y)

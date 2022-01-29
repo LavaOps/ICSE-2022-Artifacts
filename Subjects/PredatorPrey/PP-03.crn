@@ -1,0 +1,48 @@
+Reaction New :  -> predator_H1 + prey_ccdB ; 1
+Reaction1 : predator_g494 -> predator_g494 + predator_mrna495 ; 1
+Reaction10 : predator_g532_Q2b_H2 -> predator_g532_Q2b_H2 + predator_mrna533 ; 1
+Reaction11 : predator_mrna533 ->  ; 1
+Reaction12 : predator_mrna533 -> predator_A + predator_mrna533 ; 1
+Reaction13 : predator_A ->  ; 1
+Reaction14 : predator_g555 -> predator_g555 + predator_mrna556 ; 1
+Reaction15 : predator_mrna556 ->  ; 1
+Reaction16 : predator_mrna556 -> predator_ccdB + predator_mrna556 ; 1
+Reaction17 : predator_ccdB ->  ; 1
+Reaction18 : predator_Q1a -> predator_H1 + predator_Q1a ; 1
+Reaction19 : predator_H2 + predator_Q2b -> predator_Q2b_H2 ; 1
+Reaction2 : predator_mrna495 ->  ; 1
+Reaction20 : predator_Q2b_H2 -> predator_H2 + predator_Q2b ; 1
+Reaction21 : predator_A + predator_ccdB -> predator_A ; 1
+Reaction22 : predator_H1 ->  ; 1
+Reaction23 : predator_H2 ->  ; 1
+Reaction24 : predator_Q1a + predator_ccdB -> predator_ccdB ; 1
+Reaction25 : prey_g594 -> prey_g594 + prey_mrna595 ; 1
+Reaction26 : prey_H1_Q1b + prey_g594 -> prey_g594_H1_Q1b ; 1
+Reaction27 : prey_g594_H1_Q1b -> prey_H1_Q1b + prey_g594 ; 1
+Reaction28 : prey_g594_H1_Q1b -> prey_g594_H1_Q1b + prey_mrna595 ; 1
+Reaction29 : prey_mrna595 ->  ; 1
+Reaction3 : predator_mrna495 -> predator_Q2b + predator_mrna495 ; 1
+Reaction30 : prey_mrna595 -> prey_ccdB + prey_mrna595 ; 1
+Reaction31 : prey_ccdB ->  ; 1
+Reaction32 : prey_g616 -> prey_g616 + prey_mrna617 ; 1
+Reaction33 : prey_mrna617 ->  ; 1
+Reaction34 : prey_mrna617 -> prey_Q1b + prey_mrna617 ; 1
+Reaction35 : prey_Q1b ->  ; 1
+Reaction36 : prey_mrna617 -> prey_Q2a + prey_mrna617 ; 1
+Reaction37 : prey_Q2a ->  ; 1
+Reaction38 : prey_Q2a -> prey_H2 + prey_Q2a ; 1
+Reaction39 : prey_H1 + prey_Q1b -> prey_H1_Q1b ; 1
+Reaction4 : predator_Q2b ->  ; 1
+Reaction40 : prey_H1_Q1b -> prey_H1 + prey_Q1b ; 1
+Reaction41 : prey_H2 ->  ; 1
+Reaction42 : prey_H1 ->  ; 1
+Reaction43 : prey_Q2a + prey_ccdB -> prey_ccdB ; 1
+Reaction44 : predator_H1 -> H1 ; 1
+Reaction45 : H1 -> prey_H1 ; 1
+Reaction46 : prey_H2 -> H2 ; 1
+Reaction47 : H2 -> predator_H2 ; 1
+Reaction5 : predator_mrna495 -> predator_Q1a + predator_mrna495 ; 1
+Reaction6 : predator_Q1a ->  ; 1
+Reaction7 : predator_g532 -> predator_g532 + predator_mrna533 ; 1
+Reaction8 : predator_Q2b_H2 + predator_g532 -> predator_g532_Q2b_H2 ; 1
+Reaction9 : predator_g532_Q2b_H2 -> predator_Q2b_H2 + predator_g532 ; 1

@@ -1,0 +1,1 @@
+This directory is the full set of text implementations of the golden model (MIN00) and mutants.

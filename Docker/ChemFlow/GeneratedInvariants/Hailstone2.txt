@@ -1,0 +1,17 @@
+Flows (== constant):
+	+3 X1 +3 C +1 D +1 Y -1 CE -1 F 
+	+3 A -3 C -1 D -1 Y +4 CE +6 E +1 F 
+	+1 CO -1 Y +1 CE 
+
+Inequalities (remove reactions, <= constant):
+	+3 Reaction1 -3 C -1 D -1 Y +1 CE +1 F 
+	+6 Reaction2 -3 C +3 PO -1 D -1 Y +1 CE +1 F 
+	+6 Reaction3 +6 Reaction4 -3 C +3 PO -1 D -1 Y +6 PE +1 CE +1 F 
+	+1 Reaction5 -1 E 
+	+6 Reaction6 +3 B -3 C -1 D -1 Y +1 CE +4 F 
+	+3 Reaction7 -1 D -1 Y +1 CE +1 F 
+
+Irreducibles:
+	+1 Reaction10 -1 Reaction13 -1 Y +1 CE 
+	+1 Reaction11 -1 Reaction12 -1 CE 
+	+1 Reaction8 -2 Reaction9 -1 F 

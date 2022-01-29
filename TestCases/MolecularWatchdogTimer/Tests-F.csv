@@ -1,0 +1,6 @@
+TestName,TestType,Property
+A1,1,(1)*vT(L1) + (1)*vT(L2) + (1)*vT(L3) + (1)*vT(L4) + (1)*vT(L5) + (1)*vT(Y) == (1)*vZ(L1) + (1)*vZ(L2) + (1)*vZ(L3) + (1)*vZ(L4) + (1)*vZ(L5) + (1)*vZ(Y)
+A2,1,(1)*vT(U) == (1)*vZ(U)
+A3,1,(1)*vT(H) == (1)*vZ(H)
+A4,1,(1)*vT(D) + (1)*vT(T1) + (1)*vT(T2) + (1)*vT(T3) + (1)*vT(T4) + (1)*vT(T5) + (1)*vT(T6) == (1)*vZ(D) + (1)*vZ(T1) + (1)*vZ(T2) + (1)*vZ(T3) + (1)*vZ(T4) + (1)*vZ(T5) + (1)*vZ(T6)
+A5,1,(1)*vT(R) == (1)*vZ(R)

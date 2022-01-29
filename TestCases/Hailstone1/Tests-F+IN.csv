@@ -1,0 +1,10 @@
+TestName,TestType,Property
+A1,1,(1)*vT(A) + (-1)*vT(B) + (1)*vT(CO) + (3)*vT(M) + (3)*vT(X1) == (1)*vZ(A) + (-1)*vZ(B) + (1)*vZ(CO) + (3)*vZ(M) + (3)*vZ(X1)
+A2,1,(-1)*vT(A) + (1)*vT(B) + (-7)*vT(CO) + (6)*vT(D) + (3)*vT(H) + (-3)*vT(M) + (6)*vT(Y) == (-1)*vZ(A) + (1)*vZ(B) + (-7)*vZ(CO) + (6)*vZ(D) + (3)*vZ(H) + (-3)*vZ(M) + (6)*vZ(Y)
+A3,1,(1)*vT(CE) + (1)*vT(CO) + (-1)*vT(Y) == (1)*vZ(CE) + (1)*vZ(CO) + (-1)*vZ(Y)
+A4,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) + (-3)*vT(M) <= (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO) + (-3)*vZ(M)
+A5,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) + (-3)*vT(M) + (3)*vT(PO) <= (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO) + (-3)*vZ(M) + (3)*vZ(PO)
+A6,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) + (-3)*vT(M) + (6)*vT(PE) + (3)*vT(PO) <= (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO) + (-3)*vZ(M) + (6)*vZ(PE) + (3)*vZ(PO)
+A7,1,(1)*vT(CO) + (-1)*vT(D) + (-1)*vT(Y) <= (1)*vZ(CO) + (-1)*vZ(D) + (-1)*vZ(Y)
+A8,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) <= (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO)
+A9,1,(-1)*vT(A) + (2)*vT(B) + (-1)*vT(CO) <= (-1)*vZ(A) + (2)*vZ(B) + (-1)*vZ(CO)

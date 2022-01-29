@@ -1,0 +1,4 @@
+TestName,TestType,Property
+A1,1,(3)*vT(C) + (-1)*vT(CE) + (1)*vT(D) + (-1)*vT(F) + (3)*vT(X1) + (1)*vT(Y) == (3)*vZ(C) + (-1)*vZ(CE) + (1)*vZ(D) + (-1)*vZ(F) + (3)*vZ(X1) + (1)*vZ(Y)
+A2,1,(3)*vT(A) + (-3)*vT(C) + (4)*vT(CE) + (-1)*vT(D) + (6)*vT(E) + (1)*vT(F) + (-1)*vT(Y) == (3)*vZ(A) + (-3)*vZ(C) + (4)*vZ(CE) + (-1)*vZ(D) + (6)*vZ(E) + (1)*vZ(F) + (-1)*vZ(Y)
+A3,1,(1)*vT(CE) + (1)*vT(CO) + (-1)*vT(Y) == (1)*vZ(CE) + (1)*vZ(CO) + (-1)*vZ(Y)

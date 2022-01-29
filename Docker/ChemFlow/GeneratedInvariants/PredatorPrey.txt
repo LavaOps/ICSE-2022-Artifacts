@@ -1,0 +1,32 @@
+Flows (== constant):
+	+1 predator_g494 
+	+1 predator_g532 +1 predator_g532_Q2b_H2 
+	+1 predator_g555 
+	+1 prey_g594 +1 prey_g594_H1_Q1b 
+	+1 prey_g616 
+
+Inequalities (remove reactions, <= constant):
+
+Irreducibles:
+	+1 Reaction1 -1 Reaction2 -1 predator_mrna495 
+	+1 Reaction3 -1 Reaction4 -1 predator_Q2b -1 predator_Q2b_H2 -1 predator_g532_Q2b_H2 
+	+1 Reaction5 -1 Reaction6 -1 Reaction24 -1 predator_Q1a 
+	+1 Reaction7 +1 Reaction10 -1 Reaction11 -1 predator_mrna533 
+	+1 Reaction8 -1 Reaction9 -1 predator_g532_Q2b_H2 
+	+1 Reaction12 -1 Reaction13 -1 predator_A 
+	+1 Reaction14 -1 Reaction15 -1 predator_mrna556 
+	+1 Reaction16 -1 Reaction17 -1 Reaction21 -1 predator_ccdB 
+	+1 Reaction18 -1 Reaction22 -1 Reaction45 -1 predator_H1 -1 H1 
+	+1 Reaction19 -1 Reaction20 -1 predator_Q2b_H2 -1 predator_g532_Q2b_H2 
+	+1 Reaction23 -1 Reaction47 +1 predator_Q2b_H2 +1 predator_g532_Q2b_H2 +1 predator_H2 
+	+1 Reaction25 +1 Reaction28 -1 Reaction29 -1 prey_mrna595 
+	+1 Reaction26 -1 Reaction27 -1 prey_g594_H1_Q1b 
+	+1 Reaction30 -1 Reaction31 -1 prey_ccdB 
+	+1 Reaction32 -1 Reaction33 -1 prey_mrna617 
+	+1 Reaction34 -1 Reaction35 -1 prey_H1_Q1b -1 prey_g594_H1_Q1b -1 prey_Q1b 
+	+1 Reaction36 -1 Reaction37 -1 Reaction43 -1 prey_Q2a 
+	+1 Reaction38 -1 Reaction41 -1 Reaction47 -1 prey_H2 -1 H2 
+	+1 Reaction39 -1 Reaction40 -1 prey_H1_Q1b -1 prey_g594_H1_Q1b 
+	+1 Reaction42 -1 Reaction45 +1 prey_H1_Q1b +1 prey_g594_H1_Q1b +1 prey_H1 
+	+1 Reaction44 -1 Reaction45 -1 H1 
+	+1 Reaction46 -1 Reaction47 -1 H2 

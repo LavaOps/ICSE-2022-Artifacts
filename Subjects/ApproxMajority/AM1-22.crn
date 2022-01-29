@@ -1,0 +1,5 @@
+NEW_REACTION : U + X2 ->  ; 1
+Reaction1 : X1 + X2 -> U + X1 ; 1
+Reaction2 : U + X1 -> X1 + X1 ; 1
+Reaction3 : U + X2 -> X2 + X2 ; 1
+Reaction4 : X1 + X2 -> U + X2 ; 1

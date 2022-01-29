@@ -1,0 +1,4 @@
+TestName,TestType,Property
+A3,1,(1)*vT(YP) + (-1)*vT(Z) <= (1)*vZ(YP) + (-1)*vZ(Z)
+A4,1,(1)*vT(Y) <= (1)*vZ(Y)
+A5,1,(1)*vT(Y) + (1)*vT(YP) <= (1)*vZ(Y) + (1)*vZ(YP)

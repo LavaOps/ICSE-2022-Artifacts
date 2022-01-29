@@ -1,0 +1,8 @@
+Flows (== constant):
+	+1 X1 +1 X2 +1 U 
+
+Inequalities (remove reactions, <= constant):
+
+Irreducibles:
+	+1 Reaction1 -1 Reaction3 +1 X2 
+	+1 Reaction2 -1 Reaction4 +1 X2 +1 U 

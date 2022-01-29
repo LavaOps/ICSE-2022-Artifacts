@@ -1,0 +1,6 @@
+TestName,TestType,Property
+M1,1,vT(X) == 0 && vT(Y) == 0
+M2,1,vT(V) > 0
+M3,1,vT(X) > 0 || vT(Y) > 0
+M4,1,vT(V) == 0
+M5,1,vT(V) > 0

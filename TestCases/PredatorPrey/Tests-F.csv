@@ -1,0 +1,6 @@
+TestName,TestType,Property
+A1,1,(1)*vT(predator_g494) == (1)*vZ(predator_g494)
+A2,1,(1)*vT(predator_g532) + (1)*vT(predator_g532_Q2b_H2) == (1)*vZ(predator_g532) + (1)*vZ(predator_g532_Q2b_H2)
+A3,1,(1)*vT(predator_g555) == (1)*vZ(predator_g555)
+A4,1,(1)*vT(prey_g594) + (1)*vT(prey_g594_H1_Q1b) == (1)*vZ(prey_g594) + (1)*vZ(prey_g594_H1_Q1b)
+A5,1,(1)*vT(prey_g616) == (1)*vZ(prey_g616)

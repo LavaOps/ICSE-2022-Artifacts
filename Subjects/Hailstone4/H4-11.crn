@@ -1,0 +1,92 @@
+NEW_REACTION : X1uABab + al -> LeaderX1 + aq ; 1
+Reaction1 : LeaderX1 + X1 -> LeaderX1 + ac + ad ; 1
+Reaction10 : Leaderac + ac + af -> Leaderac + ag ; 1
+Reaction11 : ACuAEX1 + ac + af -> Leaderac + ag ; 1
+Reaction12 : ACuAEab + ac + af -> Leaderac + ag ; 1
+Reaction13 : Leaderac + ac + ag -> Leaderac + af ; 1
+Reaction14 : ACuAEX1 + ac + ag -> Leaderac + af ; 1
+Reaction15 : ACuAEab + ac + ag -> Leaderac + af ; 1
+Reaction16 : A + ACuAEX1 -> A + Leaderac ; 1
+Reaction17 : A + ACuAEab -> A + ACuAEX1 ; 1
+Reaction18 : Leaderac + ah -> ACuAEX1 + ah ; 1
+Reaction19 : ACuAEX1 + ah -> ACuAEab + ah ; 1
+Reaction2 : X1 + X1uABX1 -> LeaderX1 + ac + ad ; 1
+Reaction20 : ACuAEab + ah -> SetX1X1 ; 1
+Reaction21 : Leaderad + ad -> Leaderad + ak + al ; 1
+Reaction22 : ADuAFX1 + ad -> Leaderad + ak + al ; 1
+Reaction23 : ADuAFab + ad -> Leaderad + ak + al ; 1
+Reaction24 : A + ADuAFX1 -> A + Leaderad ; 1
+Reaction25 : A + ADuAFab -> A + ADuAFX1 ; 1
+Reaction26 : Leaderad + aj -> ADuAFX1 + aj ; 1
+Reaction27 : ADuAFX1 + aj -> ADuAFab + aj ; 1
+Reaction28 : ADuAFab + aj -> SetABf ; 1
+Reaction29 : SetABf -> Leaderag + Leaderah + ao + ar ; 1
+Reaction3 : X1 + X1uABab -> LeaderX1 + ac + ad ; 1
+Reaction30 : Leaderag + ak + ak -> Leaderag + an ; 1
+Reaction31 : AGuAIX1 + ak + ak -> Leaderag + an ; 1
+Reaction32 : AGuAIab + ak + ak -> Leaderag + an ; 1
+Reaction33 : A + AGuAIX1 -> A + Leaderag ; 1
+Reaction34 : A + AGuAIab -> A + AGuAIX1 ; 1
+Reaction35 : Leaderag + ao -> AGuAIX1 + ao ; 1
+Reaction36 : AGuAIX1 + ao -> AGuAIab + ao ; 1
+Reaction37 : AGuAIab + ao -> Leaderai + ao ; 1
+Reaction38 : Leaderai + ak + ao -> Leaderai + ao ; 1
+Reaction39 : AIuAJX1 + ak + ao -> Leaderai + ao ; 1
+Reaction4 : A + X1uABX1 -> A + LeaderX1 ; 1
+Reaction40 : AIuAJab + ak + ao -> Leaderai + ao ; 1
+Reaction41 : A + AIuAJX1 -> A + Leaderai ; 1
+Reaction42 : A + AIuAJab -> A + AIuAJX1 ; 1
+Reaction43 : Leaderai + ao -> AIuAJX1 + ao ; 1
+Reaction44 : AIuAJX1 + ao -> AIuAJab + ao ; 1
+Reaction45 : AIuAJab + ao -> SetABX1 ; 1
+Reaction46 : Leaderah + al -> Leaderah + aq + aq + aq ; 1
+Reaction47 : AHuAKX1 + al -> Leaderah + aq + aq + aq ; 1
+Reaction48 : AHuAKab + al -> Leaderah + aq + aq + aq ; 1
+Reaction49 : A + AHuAKX1 -> A + Leaderah ; 1
+Reaction5 : A + X1uABab -> A + X1uABX1 ; 1
+Reaction50 : A + AHuAKab -> A + AHuAKX1 ; 1
+Reaction51 : Leaderah + ar -> AHuAKX1 + ar ; 1
+Reaction52 : AHuAKX1 + ar -> AHuAKab + ar ; 1
+Reaction53 : AHuAKab + ar -> Leaderak + at ; 1
+Reaction54 : Leaderak + at -> Leaderak + aq + au ; 1
+Reaction55 : Leaderak + au -> SetABab ; 1
+Reaction56 : SetABX1 + SetABab -> SetX1ab ; 1
+Reaction57 : SetX1X1 + SetX1ab -> Leaderan ; 1
+Reaction58 : Leaderan + af + an -> Leaderan + Y + af ; 1
+Reaction59 : ANuAOX1 + af + an -> Leaderan + Y + af ; 1
+Reaction6 : LeaderX1 + ab -> X1uABX1 + ab ; 1
+Reaction60 : ANuAOab + af + an -> Leaderan + Y + af ; 1
+Reaction61 : Leaderan + af + aq -> Leaderan + af ; 1
+Reaction62 : ANuAOX1 + af + aq -> Leaderan + af ; 1
+Reaction63 : ANuAOab + af + aq -> Leaderan + af ; 1
+Reaction64 : Leaderan + ag + aq -> Leaderan + Y + ag ; 1
+Reaction65 : ANuAOX1 + ag + aq -> Leaderan + Y + ag ; 1
+Reaction66 : ANuAOab + ag + aq -> Leaderan + Y + ag ; 1
+Reaction67 : Leaderan + ag + an -> Leaderan + ag ; 1
+Reaction68 : ANuAOX1 + ag + an -> Leaderan + ag ; 1
+Reaction69 : ANuAOab + ag + an -> Leaderan + ag ; 1
+Reaction7 : X1uABX1 + ab -> X1uABab + ab ; 1
+Reaction70 : A + ANuAOX1 -> A + Leaderan ; 1
+Reaction71 : A + ANuAOab -> A + ANuAOX1 ; 1
+Reaction72 : Leaderan + af -> ANuAOX1 + af ; 1
+Reaction73 : ANuAOX1 + af -> ANuAOab + af ; 1
+Reaction74 : ANuAOab + af -> Leaderao ; 1
+Reaction75 : Leaderan + af + an -> Leaderan + Y + af ; 1
+Reaction76 : ANuAPX1 + af + an -> Leaderan + Y + af ; 1
+Reaction77 : ANuAPab + af + an -> Leaderan + Y + af ; 1
+Reaction78 : Leaderan + af + aq -> Leaderan + af ; 1
+Reaction79 : ANuAPX1 + af + aq -> Leaderan + af ; 1
+Reaction8 : X1uABab + ab -> SetX1f ; 1
+Reaction80 : ANuAPab + af + aq -> Leaderan + af ; 1
+Reaction81 : Leaderan + ag + aq -> Leaderan + Y + ag ; 1
+Reaction82 : ANuAPX1 + ag + aq -> Leaderan + Y + ag ; 1
+Reaction83 : ANuAPab + ag + aq -> Leaderan + Y + ag ; 1
+Reaction84 : Leaderan + ag + an -> Leaderan + ag ; 1
+Reaction85 : ANuAPX1 + ag + an -> Leaderan + ag ; 1
+Reaction86 : ANuAPab + ag + an -> Leaderan + ag ; 1
+Reaction87 : A + ANuAPX1 -> A + Leaderan ; 1
+Reaction88 : A + ANuAPab -> A + ANuAPX1 ; 1
+Reaction89 : Leaderan + ag -> ANuAPX1 + ag ; 1
+Reaction9 : SetX1f -> Leaderac + Leaderad + af + ah + aj ; 1
+Reaction90 : ANuAPX1 + ag -> ANuAPab + ag ; 1
+Reaction91 : ANuAPab + ag -> Leaderap ; 1

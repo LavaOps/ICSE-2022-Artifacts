@@ -1,0 +1,21 @@
+Flows (== constant):
+	+1 L1 +1 L2 +1 L3 +1 L4 +1 L5 +1 Y 
+	+1 U 
+	+1 H 
+	+1 T1 +1 T2 +1 T3 +1 T4 +1 T5 +1 T6 +1 D 
+	+1 R 
+
+Inequalities (remove reactions, <= constant):
+
+Irreducibles:
+	+1 Reaction2 -1 Reaction8 -1 Reaction9 -1 Reaction10 -1 Reaction11 -1 Reaction12 -1 L2 -1 L3 -1 L4 -1 L5 -1 Y 
+	+1 Reaction3 -1 Reaction9 -1 Reaction10 -1 Reaction11 -1 Reaction12 -1 L3 -1 L4 -1 L5 -1 Y 
+	+1 Reaction4 -1 Reaction10 -1 Reaction11 -1 Reaction12 -1 L4 -1 L5 -1 Y 
+	+1 Reaction5 -1 Reaction11 -1 Reaction12 -1 L5 -1 Y 
+	+1 Reaction6 -1 Reaction12 -1 Y 
+	+1 Reaction13 -1 Reaction19 -1 Reaction20 -1 Reaction21 -1 Reaction22 -1 Reaction23 -1 Reaction25 -1 T2 -1 T3 -1 T4 -1 T5 -1 T6 -1 D 
+	+1 Reaction14 -1 Reaction20 -1 Reaction21 -1 Reaction22 -1 Reaction23 -1 Reaction25 -1 T3 -1 T4 -1 T5 -1 T6 -1 D 
+	+1 Reaction15 -1 Reaction21 -1 Reaction22 -1 Reaction23 -1 Reaction25 -1 T4 -1 T5 -1 T6 -1 D 
+	+1 Reaction16 -1 Reaction22 -1 Reaction23 -1 Reaction25 -1 T5 -1 T6 -1 D 
+	+1 Reaction17 -1 Reaction23 -1 Reaction25 -1 T6 -1 D 
+	+1 Reaction24 -1 Reaction25 -1 D 

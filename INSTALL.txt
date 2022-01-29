@@ -1,0 +1,138 @@
+# Instructions
+
+
+## Requirements
+
+Any machine running Docker 4.4.4 is required. 
+
+
+## Setup
+
+Navigate to the directory containing the downloaded repository. Once there, change to the Docker directory using the command below.
+```bash
+cd Docker/
+```
+
+All following instruction assume the Docker directory is the current directory.
+
+First, we must build the docker image using the docker command and the dockerfile by executing the following command. 
+
+```bash
+docker build -f dockerfile -t chemflow:1 .
+```
+
+After executing the above command, which may take up to 15 minutes to complete, the image is configured and source code compiled. Note that this compiled code can be recompiled using the make command in the ChemFlow directory.
+
+
+## Execution - ChemFlow
+
+To open the docker Bash interface, execute the following command:
+
+```bash
+docker run -ti chemflow:1 bash
+```
+
+This command loads and executes the Bash shell for the docker container. 
+When evaluating a single model, the following command generates the invariants for the model and displays them to the console. We use the Subtraction model in the example below.
+
+```bash
+./chem_flows Subjects/Subtraction.crn
+```
+
+To store the output to a file, we can redirect the output of the above command to store the output in persistant storage. For example, the command below generates the invariants for the subtraction CRN and stores the results in the file named OutputFile.txt.
+
+```bash
+./chem_flows Subjects/Subtraction.crn > OutputFile.txt
+```
+
+To generate the invariants for every subject in our study, we have provide a script that outputs all invariant results for the subject CRNs. Each file generated can be compared to the previously generated invariants supplied in the `GeneratedInvariants` folder. The output for each subject is stored in a file in the current directory with filenames corresponding to CRN inputfile. 
+
+```bash
+./runAllInvariants.sh
+```
+
+
+To exit the container, the following command closes the current Bash shell.
+
+```bash
+	exit
+```
+
+## Output
+
+As described above, the crn_flows program requires a single parameter that defines the CRN to analyze. The format of this file is text based, and a simple example of a CRN file is given by the Subtraction.crn file.
+The command below analyzes the subtration CRN to find the invariants.
+
+```bash
+./chem_flows Subjects/Subtraction.crn 
+```
+
+We now discuss the output format of the crn_flows program. Chem_flows takes two passes through the input file; the first pass preprocesses the model file and displays information as to its complexity, and the 2nd pass generates the invariants for the model.
+
+ Chem_Flows outputs for the subtraction CRN is shown below.
+
+```bash
+Pass 1
+There are:
+        3 species
+        2 reactions
+Pass 2
+Flows (== constant):
+	+1 X1 +1 Y -1 X2 
+
+Inequalities (remove reactions, <= constant):
+	+1 Reaction1 -1 Y +1 X2 
+	+1 Reaction2 +1 X2 
+
+Irreducibles:
+
+```
+
+The output above corresponds to the 3 groups of invariants we evaluated in this work. 
+If a category has no invariants found, it will be blank. 
+Each line is an invariant; each invariant sums to a constant value.
+
+These invariants are then translated into test cases for the Matlab simulations.
+
+## Execution - Evaluate the data in `SimulationData`
+
+Starting from the output files from the Matlab Simbiology simulations, we summarize each test suite.
+In this work, there are 7 test suites:
+
+1. Specification
+2. Flows
+3. Inequalities
+4. Inequalities with Reaction Counting
+5. Irreducibles
+6. Flows + Inequalities
+7. Flows + Inequalities + Irreducibles
+
+We evaluate 6 and 7 by combining the results of their respective components. This is used in our evaluation to save computation time when evaluating all test suites. 
+
+To evaluate the data, we provide a python script to perform analysis of the output from the Matlab simulations. We are unable to provide the Matlab Simbiology package due to licensing restrictions.
+
+If the docker Bash interface is not running, start it by entering:
+
+```bash
+docker run -ti chemflow:1 bash
+```
+
+ To run the script in the provided docker, change directories to the SummaryProgram folder and type:
+
+```bash
+cd ../SummaryProgram
+```
+
+The python program `Summarize.py` is used to display the the values of the analyzed data. If desired, the output can be directed to a file.
+
+```bash
+python3 Summarize.py
+```
+
+The command below stores the results in the file named out.csv 
+```bash
+python3 Summarize.py > out.csv
+```
+
+The generated files correspond with Table 4 from our paper. It shows the effectiveness of each test suite. This is shown for our 13 subjects, the last 4 in the output not having any specification tests. Subjects with blank entries in the output file had no test cases of the corresponding type. 
+

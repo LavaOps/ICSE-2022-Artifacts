@@ -1,0 +1,3 @@
+TestName,TestType,Property
+A1,1,(3)*vT(V) + (2)*vT(X) + (1)*vT(Y) <= (3)*vZ(V) + (2)*vZ(X) + (1)*vZ(Y)
+A2,1,(3)*vT(V) + (1)*vT(X) + (2)*vT(Y) <= (3)*vZ(V) + (1)*vZ(X) + (2)*vZ(Y)

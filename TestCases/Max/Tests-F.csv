@@ -1,0 +1,3 @@
+TestName,TestType,Property
+A1,1,(1)*vT(X) + (-1)*vT(YP) + (1)*vT(Z) == (1)*vZ(X) + (-1)*vZ(YP) + (1)*vZ(Z)
+A2,1,(1)*vT(XP) + (-1)*vT(Y) + (-1)*vT(Z) == (1)*vZ(XP) + (-1)*vZ(Y) + (-1)*vZ(Z)

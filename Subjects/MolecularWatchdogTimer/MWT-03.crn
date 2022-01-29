@@ -1,0 +1,26 @@
+O1 : A + B -> B + B + H ; 1
+O2 : B + C -> C + C ; 1
+O3 : A + C -> A + A ; 1
+O4 : H ->  ; 1
+Reaction10 : H + L4 -> H + L1 ; 1
+Reaction11 : H + L5 -> H + L1 ; 1
+Reaction12 : H + Y -> H + L1 ; 1
+Reaction13 : T1 + Y -> T2 + Y ; 1
+Reaction14 : T2 + Y -> T3 + Y ; 1
+Reaction15 : T3 + Y -> T4 + Y ; 1
+Reaction16 : T4 + Y -> T5 + Y ; 1
+Reaction17 : T5 + Y -> T6 + Y ; 1
+Reaction19 : R + T2 -> R + T1 ; 1
+Reaction2 : L1 + U -> L2 + U ; 1
+Reaction20 : R + T3 -> R + T1 ; 1
+Reaction21 : R + T4 -> R + T1 ; 1
+Reaction22 : R + T5 -> R + T1 ; 1
+Reaction23 : R + T6 -> R + T1 ; 1
+Reaction24 : T6 + Y -> D + Y ; 1
+Reaction25 : D + R -> R + T1 ; 1
+Reaction3 : L2 + U -> L3 + U ; 1
+Reaction4 : L3 + U -> L4 + U ; 1
+Reaction5 : L4 + U -> L5 + U ; 1
+Reaction6 : L5 + U -> T5 + U ; 1
+Reaction8 : H + L2 -> H + L1 ; 1
+Reaction9 : H + L3 -> H + L1 ; 1

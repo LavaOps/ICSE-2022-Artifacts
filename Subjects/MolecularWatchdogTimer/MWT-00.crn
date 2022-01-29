@@ -1,0 +1,26 @@
+Reaction2: L1 + U -> L2 + U; 0.026724525
+Reaction3: L2 + U -> L3 + U; 0.026724525
+Reaction4: L3 + U -> L4 + U; 0.026724525
+Reaction5: L4 + U -> L5 + U; 0.026724525
+Reaction6: L5 + U -> Y + U; 0.026724525
+Reaction8: L2 + H -> L1 + H; 0.026724525
+Reaction9: L3 + H -> L1 + H; 0.026724525
+Reaction10: L4 + H -> L1 + H; 0.026724525
+Reaction11: L5 + H -> L1 + H; 0.026724525
+Reaction12: Y + H -> L1 + H; 0.026724525
+Reaction13: T1 + Y -> T2 + Y; 0.026724525
+Reaction14: T2 + Y -> T3 + Y; 0.026724525
+Reaction15: T3 + Y -> T4 + Y; 0.026724525
+Reaction16: T4 + Y -> T5 + Y; 0.026724525
+Reaction17: T5 + Y -> T6 + Y; 0.026724525
+Reaction19: T2 + R -> T1 + R; 1.068981
+Reaction20: T3 + R -> T1 + R; 1.068981
+Reaction21: T4 + R -> T1 + R; 1.068981
+Reaction22: T5 + R -> T1 + R; 1.068981
+Reaction23: T6 + R -> T1 + R; 1.068981
+Reaction24: T6 + Y -> D + Y; 0.026724525
+Reaction25: D + R -> T1 + R; 1.068981
+O1: A + B -> B + B + H; 0.0063
+O2: B + C -> C + C; 0.0063
+O3: C + A -> A + A; 0.0063
+O4: H -> ; .8

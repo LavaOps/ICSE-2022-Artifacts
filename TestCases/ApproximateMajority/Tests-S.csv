@@ -1,0 +1,4 @@
+TestName,TestType,InputFile,Property
+ASE2,1,vT(X1) == vZ(X1) + vZ(X2) && vT(X2) == 0
+ASE3,1,vT(X2) == vZ(X1) + vZ(X2) && vT(X1) == 0
+ASE4,1,vT(U) == 0

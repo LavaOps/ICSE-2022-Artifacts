@@ -1,0 +1,16 @@
+FROM python:3.9.10-bullseye
+COPY . /
+WORKDIR /ChemFlow
+# Time to build estimate
+# Load G++
+RUN apt-get update && apt-get install -y \
+    build-essential
+#CMD "bash"
+RUN make
+RUN chmod uog+x runAllInvariants.sh
+#Open Docker, then instructions on how to run. 
+CMD "./runAllInvariants.sh"
+
+
+
+

@@ -1,0 +1,3 @@
+Reaction1 : X -> XP + YP ; 1
+Reaction2 : Y -> YP + Z ; 1
+Reaction3 : XP + YP + Z ->  ; 1

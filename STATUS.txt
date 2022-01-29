@@ -1,0 +1,9 @@
+Badges:
+
+Available:
+All the input files required to replicate our work are provided. They are linked with a publicly available site with DOI.
+
+
+Reusable:
+The CRNflow tool is provided in a docker image. This enables the ability to regenerate invariants of the supplied subjects or any stochastic CRN models. 
+Additionally, the subject models, specifications, and inputs used in the Matlab Simbiology simulations are provided. The Matlab engine is not provided due to licensing restrictions. The output of the simulations is provided as well, with a script which creates a summary table as output.

@@ -1,0 +1,51 @@
+# Authors
+
+## Author 1 (Corresponding Author)
+
+Michael C. Gerten
+
+E-mail: <mcgerten@iastate.edu>
+
+GitHub: [ppypp](https://github.com/ppypp)
+
+## Author 2
+
+Alexis L. Marsh
+
+E-mail: <almarsh@iastate.edu>
+
+GitHub: [amarsh26]()
+
+## Author 3
+
+James I. Lathrop
+
+
+E-mail: <jil@iastate.edu>
+
+GitHub: []()
+
+## Author 4
+
+
+Myra B. Cohen
+
+E-mail: <mcohen@iastate.edu>
+
+GitHub: []()
+
+## Author 5
+
+Andrew S. Miner
+
+E-mail: <asminer@iastate.edu>
+
+GitHub: [asminer]()
+
+## Author 6
+
+Titus H. Klinge
+
+E-mail: <tklinge@iastate.edu>
+
+GitHub: [tklinge]()

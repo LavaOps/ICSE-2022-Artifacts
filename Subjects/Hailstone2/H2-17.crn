@@ -1,0 +1,14 @@
+NEW_REACTION : CO -> CE + CO ; 1
+Reaction1 : X1 -> A + B + C + PO ; 1
+Reaction10 : D + PO -> CO + PO + Y ; 1
+Reaction11 : A + PE -> CE + PE + Y ; 1
+Reaction12 : CE + PO + Y -> A + PO ; 1
+Reaction13 : CO + PE + Y -> D + PE ; 1
+Reaction2 : PO + PO -> PE ; 1
+Reaction3 : PE + PO -> PO ; 1
+Reaction4 : PE + PE -> PE ; 1
+Reaction5 : A + A -> E ; 1
+Reaction6 : B + B ->  ; 1
+Reaction7 : C -> D + D + D ; 1
+Reaction8 : B + D -> D + D + F ; 1
+Reaction9 : D + D + F + F -> B + B ; 1

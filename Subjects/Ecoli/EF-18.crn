@@ -1,0 +1,484 @@
+Reaction1 : cpd00067_e0_ + cpd00075_e0_ -> cpd00067_c0_ + cpd00075_c0_ ; 1
+Reaction10 : cpd00004_c0_ + cpd00067_c0_ + cpd15560_c0_ -> cpd00003_c0_ + cpd15561_c0_ ; 1
+Reaction100 : cpd00067_c0_ + cpd00383_c0_ -> cpd00067_e0_ + cpd00383_e0_ ; 1
+Reaction101 : cpd00025_c0_ + cpd02074_c0_ -> cpd00001_c0_ + cpd00011_c0_ + cpd00339_c0_ ; 1
+Reaction102 : cpd00052_c0_ + cpd19503_c0_ -> cpd00012_c0_ + cpd21288_c0_ ; 1
+Reaction103 : cpd00012_c0_ + cpd21288_c0_ -> cpd00052_c0_ + cpd19503_c0_ ; 1
+Reaction104 : cpd00013_c0_ + cpd00040_c0_ -> cpd00001_c0_ + cpd14545_c0_ ; 1
+Reaction105 : cpd00002_c0_ + cpd14958_c0_ -> cpd00012_c0_ + cpd14955_c0_ ; 1
+Reaction106 : cpd03453_e0_ + cpd10516_e0_ -> cpd03726_e0_ ; 1
+Reaction107 : cpd00065_e0_ + cpd00067_e0_ -> cpd00065_c0_ + cpd00067_c0_ ; 1
+Reaction108 : cpd00065_c0_ + cpd00067_c0_ -> cpd00065_e0_ + cpd00067_e0_ ; 1
+Reaction109 : cpd00067_e0_ + cpd00132_e0_ -> cpd00067_c0_ + cpd00132_c0_ ; 1
+Reaction11 : cpd00067_c0_ + cpd00971_e0_ -> cpd00067_e0_ + cpd00971_c0_ ; 1
+Reaction110 : cpd00067_c0_ + cpd00132_c0_ -> cpd00067_e0_ + cpd00132_e0_ ; 1
+Reaction111 : cpd00001_c0_ + cpd00002_c0_ + cpd00028_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00028_c0_ + cpd00067_c0_ ; 1
+Reaction112 : cpd00008_c0_ + cpd00009_c0_ + cpd00028_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00002_c0_ + cpd00028_e0_ ; 1
+Reaction113 : cpd00067_e0_ + cpd00264_c0_ -> cpd00067_c0_ + cpd00264_e0_ ; 1
+Reaction114 : cpd00067_c0_ + cpd00264_e0_ -> cpd00067_e0_ + cpd00264_c0_ ; 1
+Reaction115 : cpd00003_c0_ + cpd00067_c0_ + cpd10515_c0_ + cpd10515_c0_ -> cpd00004_c0_ + cpd10516_c0_ + cpd10516_c0_ ; 1
+Reaction116 : cpd00004_c0_ + cpd10516_c0_ + cpd10516_c0_ -> cpd00003_c0_ + cpd00067_c0_ + cpd10515_c0_ ; 1
+Reaction117 : cpd00067_e0_ + cpd00129_e0_ -> cpd00067_c0_ + cpd00129_c0_ ; 1
+Reaction118 : cpd00067_c0_ + cpd00129_c0_ -> cpd00067_e0_ + cpd00129_e0_ ; 1
+Reaction119 : cpd00023_e0_ + cpd00067_e0_ -> cpd00023_c0_ + cpd00067_c0_ ; 1
+Reaction12 : cpd00067_e0_ + cpd00971_c0_ -> cpd00067_c0_ + cpd00971_e0_ ; 1
+Reaction120 : cpd00023_c0_ + cpd00067_c0_ -> cpd00023_e0_ + cpd00067_e0_ ; 1
+Reaction121 : cpd00067_e0_ + cpd00161_e0_ -> cpd00067_c0_ + cpd00161_c0_ ; 1
+Reaction122 : cpd00067_c0_ + cpd00161_c0_ -> cpd00067_e0_ + cpd00161_e0_ ; 1
+Reaction123 : cpd00035_e0_ + cpd00067_e0_ -> cpd00035_c0_ + cpd00067_c0_ ; 1
+Reaction124 : cpd00035_c0_ + cpd00067_c0_ -> cpd00035_e0_ + cpd00067_e0_ ; 1
+Reaction125 : cpd00067_e0_ + cpd00644_e0_ -> cpd00067_c0_ + cpd00644_c0_ ; 1
+Reaction126 : cpd00067_c0_ + cpd00644_c0_ -> cpd00067_e0_ + cpd00644_e0_ ; 1
+Reaction127 : cpd00067_e0_ + cpd00322_e0_ -> cpd00067_c0_ + cpd00322_c0_ ; 1
+Reaction128 : cpd00067_c0_ + cpd00322_c0_ -> cpd00067_e0_ + cpd00322_e0_ ; 1
+Reaction129 : cpd00067_e0_ + cpd00119_e0_ -> cpd00067_c0_ + cpd00119_c0_ ; 1
+Reaction13 : cpd00067_e0_ + cpd00209_e0_ -> cpd00067_c0_ + cpd00209_c0_ ; 1
+Reaction130 : cpd00067_c0_ + cpd00119_c0_ -> cpd00067_e0_ + cpd00119_e0_ ; 1
+Reaction131 : cpd00066_e0_ + cpd00067_e0_ -> cpd00066_c0_ + cpd00067_c0_ ; 1
+Reaction132 : cpd00066_c0_ + cpd00067_c0_ -> cpd00066_e0_ + cpd00067_e0_ ; 1
+Reaction133 : cpd00060_e0_ + cpd00067_e0_ -> cpd00060_c0_ + cpd00067_c0_ ; 1
+Reaction134 : cpd00060_c0_ + cpd00067_c0_ -> cpd00060_e0_ + cpd00067_e0_ ; 1
+Reaction135 : cpd00067_e0_ + cpd00220_e0_ -> cpd00067_c0_ + cpd00220_c0_ ; 1
+Reaction136 : cpd00067_c0_ + cpd00220_c0_ -> cpd00067_e0_ + cpd00220_e0_ ; 1
+Reaction137 : cpd00067_e0_ + cpd00084_e0_ -> cpd00067_c0_ + cpd00084_c0_ ; 1
+Reaction138 : cpd00067_c0_ + cpd00084_c0_ -> cpd00067_e0_ + cpd00084_e0_ ; 1
+Reaction139 : cpd00054_e0_ + cpd00067_e0_ -> cpd00054_c0_ + cpd00067_c0_ ; 1
+Reaction14 : cpd00005_c0_ + cpd00067_c0_ + cpd15414_c0_ -> cpd00001_c0_ + cpd00006_c0_ + cpd00104_c0_ ; 1
+Reaction140 : cpd00054_c0_ + cpd00067_c0_ -> cpd00054_e0_ + cpd00067_e0_ ; 1
+Reaction141 : cpd00033_e0_ + cpd00067_e0_ -> cpd00033_c0_ + cpd00067_c0_ ; 1
+Reaction142 : cpd00033_c0_ + cpd00067_c0_ -> cpd00033_e0_ + cpd00067_e0_ ; 1
+Reaction143 : cpd00067_e0_ + cpd00107_e0_ -> cpd00067_c0_ + cpd00107_c0_ ; 1
+Reaction144 : cpd00067_c0_ + cpd00107_c0_ -> cpd00067_e0_ + cpd00107_e0_ ; 1
+Reaction145 : cpd00041_e0_ + cpd00067_e0_ -> cpd00041_c0_ + cpd00067_c0_ ; 1
+Reaction146 : cpd00041_c0_ + cpd00067_c0_ -> cpd00041_e0_ + cpd00067_e0_ ; 1
+Reaction147 : cpd00001_c0_ + cpd00002_c0_ + cpd00635_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00635_c0_ ; 1
+Reaction148 : cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00635_c0_ -> cpd00001_c0_ + cpd00002_c0_ + cpd00635_e0_ ; 1
+Reaction149 : cpd00067_e0_ + cpd00393_e0_ -> cpd00067_c0_ + cpd00393_c0_ ; 1
+Reaction15 : cpd00007_e0_ -> cpd00007_c0_ ; 1
+Reaction150 : cpd00067_c0_ + cpd00393_c0_ -> cpd00067_e0_ + cpd00393_e0_ ; 1
+Reaction151 : cpd00067_e0_ + cpd00104_e0_ -> cpd00067_c0_ + cpd00104_c0_ ; 1
+Reaction152 : cpd00067_c0_ + cpd00104_c0_ -> cpd00067_e0_ + cpd00104_e0_ ; 1
+Reaction153 : cpd00017_e0_ + cpd00067_e0_ -> cpd00017_c0_ + cpd00067_c0_ ; 1
+Reaction154 : cpd00017_c0_ + cpd00067_c0_ -> cpd00017_e0_ + cpd00067_e0_ ; 1
+Reaction155 : cpd00067_e0_ + cpd00305_e0_ -> cpd00067_c0_ + cpd00305_c0_ ; 1
+Reaction156 : cpd00067_c0_ + cpd00305_c0_ -> cpd00067_e0_ + cpd00305_e0_ ; 1
+Reaction157 : cpd00053_e0_ + cpd00067_e0_ -> cpd00053_c0_ + cpd00067_c0_ ; 1
+Reaction158 : cpd00053_c0_ + cpd00067_c0_ -> cpd00053_e0_ + cpd00067_e0_ ; 1
+Reaction159 : cpd00039_c0_ + cpd00067_e0_ -> cpd00039_e0_ + cpd00067_c0_ ; 1
+Reaction16 : cpd00011_e0_ -> cpd00011_c0_ ; 1
+Reaction160 : cpd00039_e0_ + cpd00067_c0_ -> cpd00039_c0_ + cpd00067_e0_ ; 1
+Reaction161 : cpd00051_e0_ + cpd00067_e0_ -> cpd00051_c0_ + cpd00067_c0_ ; 1
+Reaction162 : cpd00051_c0_ + cpd00067_c0_ -> cpd00051_e0_ + cpd00067_e0_ ; 1
+Reaction163 : cpd00218_e0_ -> cpd00218_c0_ ; 1
+Reaction164 : cpd00218_c0_ -> cpd00218_e0_ ; 1
+Reaction165 : cpd00215_e0_ -> cpd00215_c0_ ; 1
+Reaction166 : cpd00215_c0_ -> cpd00215_e0_ ; 1
+Reaction167 : cpd00067_e0_ + cpd00069_e0_ -> cpd00067_c0_ + cpd00069_c0_ ; 1
+Reaction168 : cpd00067_c0_ + cpd00069_c0_ -> cpd00067_e0_ + cpd00069_e0_ ; 1
+Reaction169 : cpd00067_e0_ + cpd00156_e0_ -> cpd00067_c0_ + cpd00156_c0_ ; 1
+Reaction17 : cpd00011_c0_ -> cpd00011_e0_ ; 1
+Reaction170 : cpd00067_c0_ + cpd00156_c0_ -> cpd00067_e0_ + cpd00156_e0_ ; 1
+Reaction171 : cpd00005_c0_ + cpd00067_c0_ + cpd01716_c0_ -> cpd00006_c0_ + cpd00383_c0_ ; 1
+Reaction172 : cpd00015_c0_ + cpd00041_c0_ -> cpd00982_c0_ + cpd03470_c0_ ; 1
+Reaction173 : cpd00009_c0_ + cpd00072_c0_ -> cpd00001_c0_ + cpd00196_c0_ + cpd00236_c0_ ; 1
+Reaction174 : cpd02961_c0_ -> cpd00229_c0_ + cpd00954_c0_ ; 1
+Reaction175 : cpd00064_c0_ + cpd00146_c0_ -> cpd00009_c0_ + cpd00067_c0_ + cpd00274_c0_ ; 1
+Reaction176 : cpd00020_c0_ + cpd00067_c0_ + cpd00094_c0_ -> cpd00011_c0_ + cpd00498_c0_ ; 1
+Reaction177 : cpd00067_c0_ + cpd02666_c0_ -> cpd00011_c0_ + cpd00834_c0_ ; 1
+Reaction178 : cpd00103_c0_ + cpd00247_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd00810_c0_ ; 1
+Reaction179 : cpd00106_c0_ + cpd00106_c0_ + cpd00106_c0_ + cpd00791_c0_ -> cpd00036_c0_ + cpd00036_c0_ + cpd00036_c0_ + cpd01476_c0_ ; 1
+Reaction18 : cpd00008_c0_ + cpd00203_c0_ -> cpd00002_c0_ + cpd00169_c0_ ; 1
+Reaction180 : cpd00002_c0_ + cpd00067_c0_ + cpd00298_c0_ -> cpd00008_c0_ + cpd00297_c0_ ; 1
+Reaction181 : cpd00002_c0_ + cpd00014_c0_ -> cpd00008_c0_ + cpd00062_c0_ ; 1
+Reaction182 : cpd00344_c0_ -> cpd00001_c0_ + cpd00067_c0_ + cpd02311_c0_ ; 1
+Reaction183 : cpd00125_c0_ + cpd00299_c0_ -> cpd00298_c0_ + cpd00330_c0_ ; 1
+Reaction184 : cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00774_c0_ -> cpd00011_c0_ + cpd00011_c0_ + cpd00011_c0_ + cpd00011_c0_ + cpd02083_c0_ ; 1
+Reaction185 : cpd00002_c0_ + cpd00033_c0_ + cpd00506_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00042_c0_ + cpd00067_c0_ ; 1
+Reaction186 : cpd00004_c0_ + cpd00013_c0_ + cpd00067_c0_ + cpd00123_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00156_c0_ ; 1
+Reaction187 : cpd00113_c0_ + cpd02590_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd02557_c0_ ; 1
+Reaction188 : cpd00002_c0_ + cpd11421_c0_ -> cpd00001_c0_ + cpd00115_c0_ + cpd11420_c0_ ; 1
+Reaction189 : cpd00038_c0_ + cpd11421_c0_ -> cpd00001_c0_ + cpd00241_c0_ + cpd11420_c0_ ; 1
+Reaction19 : cpd00003_c0_ + cpd00009_c0_ + cpd00102_c0_ -> cpd00004_c0_ + cpd00067_c0_ + cpd00203_c0_ ; 1
+Reaction190 : cpd00018_c0_ + cpd00421_c0_ -> cpd00008_c0_ + cpd00012_c0_ ; 1
+Reaction191 : cpd00007_c0_ + cpd03446_c0_ -> cpd00001_c0_ + cpd03447_c0_ ; 1
+Reaction192 : cpd00022_c0_ + cpd03671_c0_ -> cpd00010_c0_ + cpd00067_c0_ + cpd02611_c0_ ; 1
+Reaction193 : cpd00037_c0_ + cpd00067_c0_ + cpd11484_c0_ -> cpd02886_c0_ + cpd11493_c0_ ; 1
+Reaction194 : cpd03831_c0_ + cpd15549_c0_ -> cpd00008_c0_ + cpd15488_c0_ ; 1
+Reaction195 : cpd00030_e0_ + cpd00067_e0_ -> cpd00030_c0_ + cpd00067_c0_ ; 1
+Reaction196 : cpd02857_c0_ -> cpd00009_c0_ + cpd00699_c0_ ; 1
+Reaction197 : cpd00064_c0_ + cpd00067_c0_ -> cpd00011_c0_ + cpd00118_c0_ ; 1
+Reaction198 : cpd00004_c0_ + cpd00015_c0_ + cpd00067_c0_ + cpd00067_c0_ -> cpd00003_c0_ + cpd00982_c0_ ; 1
+Reaction199 : cpd00001_c0_ + cpd00013_c0_ + cpd00196_c0_ + cpd11420_c0_ -> cpd00009_c0_ + cpd00033_c0_ + cpd00067_c0_ + cpd11421_c0_ ; 1
+Reaction2 : cpd00067_c0_ + cpd00075_c0_ -> cpd00067_e0_ + cpd00075_e0_ ; 1
+Reaction20 : cpd00008_c0_ + cpd00009_c0_ + cpd00022_c0_ -> cpd00002_c0_ + cpd00010_c0_ + cpd00029_c0_ ; 1
+Reaction200 : cpd00002_c0_ + cpd00023_c0_ + cpd00084_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00506_c0_ ; 1
+Reaction201 : cpd00002_c0_ + cpd00355_c0_ -> cpd00003_c0_ + cpd00012_c0_ ; 1
+Reaction202 : cpd00048_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00110_c0_ + cpd00110_c0_ -> cpd00001_c0_ + cpd00081_c0_ + cpd00109_c0_ + cpd00109_c0_ ; 1
+Reaction203 : cpd00005_c0_ + cpd00067_c0_ + cpd01977_c0_ -> cpd00006_c0_ + cpd00009_c0_ + cpd00346_c0_ ; 1
+Reaction204 : cpd00005_c0_ + cpd00005_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00070_c0_ + cpd00134_c0_ -> cpd00001_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00010_c0_ + cpd00011_c0_ + cpd00327_c0_ ; 1
+Reaction205 : cpd03586_c0_ + cpd11468_c0_ -> cpd03736_c0_ + cpd11493_c0_ ; 1
+Reaction206 : cpd00932_c0_ -> cpd00009_c0_ + cpd00216_c0_ ; 1
+Reaction207 : cpd00022_c0_ + cpd00035_c0_ -> cpd00010_c0_ + cpd02121_c0_ ; 1
+Reaction208 : cpd00002_c0_ + cpd00847_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd00103_c0_ ; 1
+Reaction209 : cpd00002_c0_ + cpd00117_c0_ + cpd00117_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00731_c0_ ; 1
+Reaction21 : cpd15561_c0_ + cpd18077_c0_ -> cpd00067_e0_ + cpd00067_e0_ + cpd15560_c0_ + cpd18078_c0_ ; 1
+Reaction210 : cpd00035_c0_ -> cpd00117_c0_ ; 1
+Reaction211 : cpd00041_c0_ + cpd00146_c0_ -> cpd00009_c0_ + cpd00067_c0_ + cpd00343_c0_ ; 1
+Reaction212 : cpd00033_c0_ + cpd00067_c0_ + cpd00078_c0_ -> cpd00010_c0_ + cpd00011_c0_ + cpd00338_c0_ ; 1
+Reaction213 : cpd00017_c0_ + cpd03447_c0_ -> cpd00019_c0_ + cpd00067_c0_ + cpd03448_c0_ ; 1
+Reaction214 : cpd00755_c0_ -> cpd00001_c0_ + cpd00774_c0_ ; 1
+Reaction215 : cpd00013_c0_ + cpd00072_c0_ -> cpd00001_c0_ + cpd03671_c0_ ; 1
+Reaction216 : cpd00001_c0_ + cpd00002_c0_ + cpd00053_c0_ + cpd02678_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00023_c0_ + cpd00067_c0_ + cpd02826_c0_ ; 1
+Reaction217 : cpd02921_c0_ -> cpd00067_c0_ + cpd00106_c0_ + cpd02851_c0_ ; 1
+Reaction218 : cpd00003_c0_ + cpd00010_c0_ + cpd00067_c0_ + cpd00269_c0_ -> cpd00004_c0_ + cpd00011_c0_ + cpd00413_c0_ ; 1
+Reaction219 : cpd00067_c0_ + cpd00067_c0_ + cpd00169_c0_ + cpd00169_c0_ -> cpd00001_c0_ + cpd00011_c0_ + cpd00871_c0_ ; 1
+Reaction22 : cpd00008_c0_ + cpd00061_c0_ + cpd00067_c0_ -> cpd00002_c0_ + cpd00020_c0_ ; 1
+Reaction220 : cpd00007_c0_ + cpd03444_c0_ + cpd03444_c0_ -> cpd03445_c0_ + cpd03445_c0_ ; 1
+Reaction221 : cpd00404_c0_ -> cpd00064_c0_ ; 1
+Reaction222 : cpd00106_c0_ + cpd00282_c0_ -> cpd00036_c0_ + cpd00247_c0_ ; 1
+Reaction223 : cpd00004_c0_ + cpd00067_c0_ + cpd03126_c0_ -> cpd00003_c0_ + cpd00134_c0_ ; 1
+Reaction224 : cpd00001_c0_ + cpd02229_c0_ -> cpd00009_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00286_c0_ ; 1
+Reaction225 : cpd00001_c0_ + cpd00022_c0_ + cpd00279_c0_ -> cpd00010_c0_ + cpd00067_c0_ + cpd00292_c0_ ; 1
+Reaction226 : cpd00061_c0_ + cpd02030_c0_ -> cpd00009_c0_ + cpd00932_c0_ ; 1
+Reaction227 : cpd00067_c0_ + cpd00067_c0_ + cpd00871_c0_ -> cpd00847_c0_ ; 1
+Reaction228 : cpd02654_c0_ + cpd02894_c0_ -> cpd00012_c0_ + cpd00793_c0_ ; 1
+Reaction229 : cpd00013_c0_ + cpd00205_e0_ -> cpd00013_e0_ + cpd00205_c0_ ; 1
+Reaction23 : cpd00079_c0_ -> cpd00072_c0_ ; 1
+Reaction230 : cpd00022_c0_ + cpd00413_c0_ -> cpd00010_c0_ + cpd04104_c0_ ; 1
+Reaction231 : cpd00286_c0_ + cpd02968_c0_ -> cpd00091_c0_ + cpd03494_c0_ ; 1
+Reaction232 : cpd00026_c0_ + cpd15469_c0_ -> cpd00014_c0_ + cpd15475_c0_ ; 1
+Reaction233 : cpd00004_c0_ + cpd00013_c0_ + cpd00024_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00023_c0_ ; 1
+Reaction234 : cpd00035_c0_ + cpd00067_c0_ + cpd00782_c0_ -> cpd00010_c0_ + cpd00011_c0_ + cpd00800_c0_ ; 1
+Reaction235 : cpd02642_c0_ -> cpd00956_c0_ ; 1
+Reaction236 : cpd03831_c0_ + cpd15485_c0_ -> cpd00008_c0_ + cpd15484_c0_ ; 1
+Reaction237 : cpd00002_c0_ + cpd00011_c0_ + cpd00764_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd01311_c0_ ; 1
+Reaction238 : cpd00004_c0_ + cpd00013_c0_ + cpd00067_c0_ + cpd00143_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00066_c0_ ; 1
+Reaction239 : cpd00338_c0_ + cpd00338_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00067_c0_ + cpd00689_c0_ ; 1
+Reaction24 : cpd00029_c0_ + cpd00067_c0_ -> cpd00029_e0_ + cpd00067_e0_ ; 1
+Reaction240 : cpd00054_c0_ + cpd00087_c0_ -> cpd00001_c0_ + cpd00033_c0_ + cpd00125_c0_ ; 1
+Reaction241 : cpd02546_c0_ + cpd03585_c0_ -> cpd00046_c0_ + cpd00067_c0_ + cpd03586_c0_ ; 1
+Reaction242 : cpd00013_c0_ + cpd00114_c0_ -> cpd00001_c0_ + cpd00018_c0_ + cpd00067_c0_ ; 1
+Reaction243 : cpd00067_c0_ + cpd00067_c0_ + cpd00834_c0_ + cpd12370_c0_ -> cpd00001_c0_ + cpd11493_c0_ ; 1
+Reaction244 :  -> cpd17043_c0_ ; 1
+Reaction245 : cpd00005_c0_ + cpd00067_c0_ + cpd00330_c0_ -> cpd00006_c0_ + cpd00087_c0_ ; 1
+Reaction246 : cpd00023_c0_ + cpd00868_c0_ -> cpd00024_c0_ + cpd00069_c0_ ; 1
+Reaction247 : cpd00013_c0_ + cpd00873_c0_ -> cpd00001_c0_ + cpd00355_c0_ ; 1
+Reaction248 : cpd00002_c0_ + cpd00084_c0_ + cpd02201_c0_ -> cpd00012_c0_ + cpd00018_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02666_c0_ ; 1
+Reaction249 : cpd00038_c0_ + cpd03919_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd03920_c0_ ; 1
+Reaction25 : cpd00027_e0_ + cpd00061_c0_ -> cpd00020_c0_ + cpd00079_c0_ ; 1
+Reaction250 : cpd00001_c0_ + cpd00022_c0_ + cpd00024_c0_ -> cpd00010_c0_ + cpd00067_c0_ + cpd00919_c0_ ; 1
+Reaction251 : cpd00052_c0_ + cpd00875_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd02546_c0_ ; 1
+Reaction252 : cpd00521_c0_ -> cpd00522_c0_ ; 1
+Reaction253 : cpd00002_c0_ + cpd00516_c0_ + cpd00525_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd02964_c0_ ; 1
+Reaction254 : cpd01476_c0_ + cpd10515_c0_ -> cpd00028_c0_ + cpd00067_c0_ + cpd00067_c0_ ; 1
+Reaction255 : cpd00013_c0_ + cpd00067_c0_ + cpd00094_c0_ + cpd00239_c0_ -> cpd00001_c0_ + cpd00135_c0_ ; 1
+Reaction256 : cpd00017_c0_ + cpd15352_c0_ -> cpd00019_c0_ + cpd00067_c0_ + cpd15500_c0_ ; 1
+Reaction257 : cpd00520_c0_ -> cpd00001_c0_ + cpd00340_c0_ ; 1
+Reaction258 : cpd00054_c0_ + cpd02210_c0_ -> cpd00001_c0_ + cpd00065_c0_ + cpd00102_c0_ ; 1
+Reaction259 : cpd00002_c0_ + cpd00047_c0_ + cpd02851_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd02884_c0_ ; 1
+Reaction26 : cpd00482_c0_ -> cpd00001_c0_ + cpd00061_c0_ ; 1
+Reaction260 : cpd00004_c0_ + cpd00036_c0_ + cpd00067_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00199_c0_ ; 1
+Reaction261 : cpd00080_c0_ + cpd00327_c0_ -> cpd00010_c0_ + cpd15329_c0_ ; 1
+Reaction262 : cpd00002_c0_ + cpd00731_c0_ + cpd02964_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd02968_c0_ ; 1
+Reaction263 : cpd00873_c0_ + cpd01997_c0_ -> cpd00067_c0_ + cpd00218_c0_ + cpd02904_c0_ ; 1
+Reaction264 : cpd00005_c0_ + cpd00067_c0_ + cpd00668_c0_ -> cpd00006_c0_ + cpd02498_c0_ ; 1
+Reaction265 : cpd01695_c0_ + cpd11493_c0_ -> cpd00010_c0_ + cpd11466_c0_ ; 1
+Reaction266 : cpd02720_c0_ + cpd02882_c0_ -> cpd00009_c0_ + cpd02656_c0_ + cpd02656_c0_ ; 1
+Reaction267 : cpd00079_c0_ -> cpd00089_c0_ ; 1
+Reaction268 : cpd00002_c0_ + cpd00220_c0_ -> cpd00008_c0_ + cpd00050_c0_ + cpd00067_c0_ ; 1
+Reaction269 : cpd00002_c0_ + cpd00067_c0_ + cpd03422_c0_ -> cpd00421_c0_ + cpd03918_c0_ ; 1
+Reaction27 : cpd00002_c0_ + cpd00072_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd00290_c0_ ; 1
+Reaction270 : cpd00004_c0_ + cpd00067_c0_ + cpd04104_c0_ -> cpd00003_c0_ + cpd04103_c0_ ; 1
+Reaction271 : cpd00026_c0_ + cpd15475_c0_ -> cpd00014_c0_ + cpd15477_c0_ ; 1
+Reaction272 : cpd00443_c0_ + cpd00954_c0_ -> cpd00001_c0_ + cpd00683_c0_ ; 1
+Reaction273 : cpd00002_c0_ + cpd00383_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd02030_c0_ ; 1
+Reaction274 : cpd00005_c0_ + cpd00067_c0_ + cpd00522_c0_ -> cpd00006_c0_ + cpd02113_c0_ ; 1
+Reaction275 : cpd00037_c0_ + cpd00061_c0_ -> cpd00009_c0_ + cpd02820_c0_ ; 1
+Reaction276 : cpd00002_c0_ + cpd00013_c0_ + cpd00062_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00052_c0_ + cpd00067_c0_ + cpd00067_c0_ ; 1
+Reaction277 : cpd00198_c0_ -> cpd00171_c0_ ; 1
+Reaction278 : cpd00001_c0_ + cpd00002_c0_ + cpd00003_c0_ + cpd00003_c0_ + cpd00239_c0_ + cpd01311_c0_ -> cpd00004_c0_ + cpd00004_c0_ + cpd00012_c0_ + cpd00018_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00104_c0_ ; 1
+Reaction279 : cpd00199_c0_ + cpd00658_c0_ -> cpd00020_c0_ + cpd03451_c0_ ; 1
+Reaction28 : cpd00290_c0_ -> cpd00095_c0_ + cpd00102_c0_ ; 1
+Reaction280 : cpd00002_c0_ + cpd00069_c0_ + cpd00084_c0_ + cpd08289_c0_ -> cpd00001_c0_ + cpd00011_c0_ + cpd00012_c0_ + cpd00018_c0_ + cpd00035_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02654_c0_ + cpd15378_c0_ ; 1
+Reaction281 : cpd00002_c0_ + cpd00186_c0_ + cpd00890_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00525_c0_ ; 1
+Reaction282 : cpd00067_c0_ + cpd00515_c0_ -> cpd00001_c0_ + cpd00011_c0_ + cpd00340_c0_ ; 1
+Reaction283 : cpd00002_c0_ + cpd00010_c0_ + cpd01772_c0_ -> cpd00012_c0_ + cpd00018_c0_ + cpd00067_c0_ + cpd02021_c0_ ; 1
+Reaction284 : cpd00002_c0_ + cpd00011_c0_ + cpd00013_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00146_c0_ ; 1
+Reaction285 : cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00081_c0_ + cpd11620_c0_ + cpd11620_c0_ + cpd11620_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00239_c0_ + cpd11621_c0_ + cpd11621_c0_ + cpd11621_c0_ ; 1
+Reaction286 : cpd00699_c0_ -> cpd00001_c0_ + cpd01716_c0_ ; 1
+Reaction287 : cpd00001_c0_ + cpd08316_c0_ -> cpd00009_c0_ + cpd04920_c0_ ; 1
+Reaction288 : cpd00072_c0_ + cpd00102_c0_ -> cpd00198_c0_ + cpd00236_c0_ ; 1
+Reaction289 : cpd00002_c0_ + cpd00035_c0_ + cpd00773_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00890_c0_ ; 1
+Reaction29 : cpd00007_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd18078_c0_ + cpd18078_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00067_e0_ + cpd00067_e0_ + cpd00067_e0_ + cpd00067_e0_ + cpd18077_c0_ + cpd18077_c0_ ; 1
+Reaction290 : cpd00067_c0_ + cpd00103_c0_ + cpd02333_c0_ -> cpd00011_c0_ + cpd00012_c0_ + cpd00873_c0_ ; 1
+Reaction291 : cpd15238_c0_ -> cpd00067_c0_ + cpd03126_c0_ ; 1
+Reaction292 : cpd00001_c0_ + cpd00061_c0_ + cpd00236_c0_ -> cpd00009_c0_ + cpd02857_c0_ ; 1
+Reaction293 : cpd00006_c0_ + cpd11466_c0_ -> cpd00005_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd11467_c0_ ; 1
+Reaction294 : cpd00013_c0_ + cpd00274_c0_ -> cpd00001_c0_ + cpd00051_c0_ ; 1
+Reaction295 : cpd00067_c0_ + cpd02656_c0_ + cpd02656_c0_ -> cpd00220_c0_ + cpd02882_c0_ ; 1
+Reaction296 : cpd00004_c0_ + cpd00067_c0_ + cpd00095_c0_ -> cpd00003_c0_ + cpd00080_c0_ ; 1
+Reaction297 : cpd00001_c0_ + cpd00347_c0_ + cpd02394_c0_ -> cpd00067_c0_ + cpd00067_c0_ + cpd00087_c0_ + cpd02678_c0_ ; 1
+Reaction298 : cpd00006_c0_ + cpd00219_c0_ -> cpd00005_c0_ + cpd00011_c0_ + cpd00868_c0_ ; 1
+Reaction299 : cpd00001_c0_ + cpd00067_c0_ + cpd00957_c0_ -> cpd00013_c0_ + cpd00931_c0_ ; 1
+Reaction3 : cpd00004_c0_ + cpd00067_c0_ + cpd00418_c0_ + cpd00418_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00659_c0_ ; 1
+Reaction30 : cpd00008_c0_ + cpd00009_c0_ + cpd00067_e0_ + cpd00067_e0_ + cpd00067_e0_ + cpd00067_e0_ -> cpd00001_c0_ + cpd00002_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ ; 1
+Reaction300 : cpd00135_c0_ + cpd02738_c0_ -> cpd00060_c0_ + cpd02555_c0_ ; 1
+Reaction301 : cpd00171_c0_ -> cpd00817_c0_ ; 1
+Reaction302 : cpd00002_c0_ + cpd00841_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00011_c0_ + cpd00113_c0_ ; 1
+Reaction303 : cpd00013_c0_ + cpd00581_c0_ -> cpd00119_c0_ ; 1
+Reaction304 : cpd00113_c0_ + cpd00283_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd00350_c0_ ; 1
+Reaction305 : cpd00004_c0_ + cpd00013_c0_ + cpd00067_c0_ + cpd01046_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00039_c0_ ; 1
+Reaction306 : cpd00002_c0_ + cpd00003_c0_ -> cpd00006_c0_ + cpd00008_c0_ + cpd00067_c0_ ; 1
+Reaction307 : cpd02021_c0_ -> cpd00010_c0_ + cpd02295_c0_ ; 1
+Reaction308 : cpd00052_c0_ + cpd11421_c0_ -> cpd00001_c0_ + cpd00356_c0_ + cpd11420_c0_ ; 1
+Reaction309 : cpd00002_c0_ + cpd00013_c0_ + cpd00023_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00053_c0_ + cpd00067_c0_ ; 1
+Reaction31 : cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00169_c0_ + cpd11620_c0_ -> cpd00001_c0_ + cpd00102_c0_ + cpd11621_c0_ ; 1
+Reaction310 : cpd00067_c0_ + cpd00516_c0_ -> cpd00011_c0_ + cpd00039_c0_ ; 1
+Reaction311 : cpd00013_c0_ + cpd00216_c0_ -> cpd00001_c0_ + cpd00020_c0_ + cpd00067_c0_ + cpd00093_c0_ ; 1
+Reaction312 : cpd00002_c0_ + cpd00013_c0_ + cpd00101_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd01982_c0_ ; 1
+Reaction313 : cpd00216_c0_ -> cpd00219_c0_ ; 1
+Reaction314 : cpd00002_c0_ + cpd04918_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd08316_c0_ ; 1
+Reaction315 : cpd00001_c0_ + cpd00002_c0_ + cpd00009_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00009_c0_ + cpd00067_c0_ ; 1
+Reaction316 : cpd03426_c0_ + cpd10515_c0_ -> cpd00067_c0_ + cpd00067_c0_ + cpd00557_c0_ ; 1
+Reaction317 : cpd00020_c0_ + cpd00843_c0_ -> cpd00515_c0_ ; 1
+Reaction318 : cpd00039_c0_ + cpd00800_c0_ -> cpd00764_c0_ + cpd01046_c0_ ; 1
+Reaction319 : cpd00089_c0_ + cpd00357_c0_ -> cpd00012_c0_ + cpd00626_c0_ ; 1
+Reaction32 : cpd00169_c0_ -> cpd00482_c0_ ; 1
+Reaction320 : cpd00005_c0_ + cpd00067_c0_ + cpd00498_c0_ -> cpd00006_c0_ + cpd02535_c0_ ; 1
+Reaction321 : cpd00067_c0_ + cpd00067_c0_ + cpd00089_c0_ + cpd00091_c0_ -> cpd00001_c0_ + cpd00026_c0_ ; 1
+Reaction322 : cpd00014_c0_ + cpd11421_c0_ -> cpd00001_c0_ + cpd00978_c0_ + cpd11420_c0_ ; 1
+Reaction323 : cpd02498_c0_ -> cpd00001_c0_ + cpd00123_c0_ ; 1
+Reaction324 : cpd02535_c0_ -> cpd00001_c0_ + cpd00508_c0_ ; 1
+Reaction325 : cpd00005_c0_ + cpd00007_c0_ + cpd00067_c0_ + cpd03448_c0_ -> cpd00001_c0_ + cpd00006_c0_ + cpd03449_c0_ ; 1
+Reaction326 : cpd00002_c0_ + cpd00031_c0_ -> cpd00008_c0_ + cpd00038_c0_ ; 1
+Reaction327 : cpd00005_c0_ + cpd00013_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02465_c0_ -> cpd00006_c0_ + cpd00516_c0_ ; 1
+Reaction328 : cpd00001_c0_ + cpd00169_c0_ -> cpd00009_c0_ + cpd00223_c0_ ; 1
+Reaction329 : cpd00004_c0_ + cpd00067_c0_ + cpd00157_c0_ -> cpd00003_c0_ + cpd00100_c0_ ; 1
+Reaction33 : cpd00095_c0_ -> cpd00102_c0_ ; 1
+Reaction330 : cpd00018_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00834_c0_ -> cpd00001_c0_ + cpd00655_c0_ ; 1
+Reaction331 : cpd00001_c0_ + cpd00006_c0_ + cpd00340_c0_ -> cpd00005_c0_ + cpd00024_c0_ + cpd00067_c0_ + cpd00067_c0_ ; 1
+Reaction332 : cpd00002_c0_ + cpd15484_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd15549_c0_ ; 1
+Reaction333 : cpd00020_c0_ + cpd00229_c0_ -> cpd00520_c0_ ; 1
+Reaction334 : cpd00006_c0_ + cpd00013_c0_ + cpd00114_c0_ -> cpd00005_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00126_c0_ ; 1
+Reaction335 : cpd00001_c0_ + cpd00038_c0_ -> cpd00047_c0_ + cpd00067_c0_ + cpd02978_c0_ ; 1
+Reaction336 : cpd00001_c0_ + cpd00006_c0_ + cpd00484_c0_ -> cpd00005_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00136_c0_ ; 1
+Reaction337 : cpd15526_c0_ + cpd15540_c0_ -> cpd00001_c0_ + cpd15430_c0_ ; 1
+Reaction338 : cpd00004_c0_ + cpd04111_c0_ -> cpd00003_c0_ + cpd00782_c0_ ; 1
+Reaction339 : cpd00004_c0_ + cpd00029_c0_ + cpd00033_c0_ + cpd00067_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00161_c0_ ; 1
+Reaction34 :  -> cpd17042_c0_ ; 1
+Reaction340 : cpd00002_c0_ + cpd15488_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd15550_c0_ ; 1
+Reaction341 : cpd00035_c0_ + cpd00191_c0_ -> cpd00020_c0_ + cpd00085_c0_ ; 1
+Reaction342 : cpd00003_c0_ + cpd01620_c0_ -> cpd00004_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd03426_c0_ ; 1
+Reaction343 : cpd03736_c0_ + cpd11466_c0_ -> cpd03587_c0_ + cpd11493_c0_ ; 1
+Reaction344 : cpd00001_c0_ + cpd02483_c0_ -> cpd03372_c0_ ; 1
+Reaction345 : cpd00001_c0_ + cpd00095_c0_ -> cpd00009_c0_ + cpd00157_c0_ ; 1
+Reaction346 : cpd00067_c0_ + cpd00149_e0_ -> cpd00067_e0_ + cpd00149_c0_ ; 1
+Reaction347 : cpd00001_c0_ + cpd00001_c0_ + cpd00013_c0_ + cpd00109_c0_ + cpd00109_c0_ + cpd00109_c0_ + cpd00109_c0_ + cpd00109_c0_ + cpd00109_c0_ -> cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00075_c0_ + cpd00110_c0_ + cpd00110_c0_ + cpd00110_c0_ + cpd00110_c0_ + cpd00110_c0_ + cpd00110_c0_ ; 1
+Reaction348 : cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00350_c0_ -> cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02229_c0_ ; 1
+Reaction349 : cpd00004_c0_ + cpd00013_c0_ + cpd00020_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00035_c0_ ; 1
+Reaction35 : cpd00001_c0_ + cpd00012_c0_ -> cpd00009_c0_ + cpd00009_c0_ + cpd00067_c0_ ; 1
+Reaction350 : cpd00001_c0_ + cpd00689_c0_ + cpd00689_c0_ + cpd00689_c0_ + cpd00689_c0_ -> cpd00013_c0_ + cpd00013_c0_ + cpd00013_c0_ + cpd00013_c0_ + cpd00755_c0_ ; 1
+Reaction351 : cpd02835_c0_ + cpd02930_c0_ -> cpd00014_c0_ + cpd03002_c0_ ; 1
+Reaction352 : cpd00017_c0_ + cpd00017_c0_ + cpd00774_c0_ -> cpd00019_c0_ + cpd00019_c0_ + cpd00067_c0_ + cpd01620_c0_ ; 1
+Reaction353 : cpd00006_c0_ + cpd00223_c0_ -> cpd00005_c0_ + cpd00067_c0_ + cpd00843_c0_ ; 1
+Reaction354 : cpd00005_c0_ + cpd00005_c0_ + cpd00005_c0_ + cpd00005_c0_ + cpd00005_c0_ + cpd00005_c0_ + cpd00022_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00070_c0_ + cpd00070_c0_ + cpd00070_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00011_c0_ + cpd00011_c0_ + cpd00011_c0_ + cpd01335_c0_ ; 1
+Reaction355 : cpd00023_c0_ -> cpd00186_c0_ ; 1
+Reaction356 : cpd00238_c0_ -> cpd04918_c0_ ; 1
+Reaction357 : cpd00001_c0_ + cpd00022_c0_ + cpd00123_c0_ -> cpd00010_c0_ + cpd00067_c0_ + cpd01646_c0_ ; 1
+Reaction358 : cpd00067_c0_ + cpd19442_c0_ -> cpd00011_c0_ + cpd00264_c0_ ; 1
+Reaction359 : cpd00017_c0_ + cpd03449_c0_ -> cpd00019_c0_ + cpd00067_c0_ + cpd15560_c0_ ; 1
+Reaction36 : cpd00067_e0_ + cpd00118_e0_ -> cpd00067_c0_ + cpd00118_c0_ ; 1
+Reaction360 : cpd00063_e0_ + cpd00067_c0_ -> cpd00063_c0_ + cpd00067_e0_ ; 1
+Reaction361 : cpd00067_c0_ + cpd00099_e0_ + cpd00099_e0_ -> cpd00067_e0_ + cpd00099_c0_ + cpd00099_c0_ ; 1
+Reaction362 : cpd00004_c0_ + cpd00013_c0_ + cpd00032_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00041_c0_ ; 1
+Reaction363 : cpd00002_c0_ + cpd00067_c0_ + cpd00793_c0_ -> cpd00008_c0_ + cpd00056_c0_ ; 1
+Reaction364 : cpd00003_c0_ + cpd15378_c0_ -> cpd00004_c0_ + cpd00067_c0_ + cpd00484_c0_ ; 1
+Reaction365 : cpd00002_c0_ + cpd00644_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd02201_c0_ ; 1
+Reaction366 : cpd00002_c0_ + cpd00010_c0_ + cpd00036_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00078_c0_ ; 1
+Reaction367 : cpd00053_c0_ + cpd00216_c0_ -> cpd00020_c0_ + cpd00023_c0_ + cpd00067_c0_ + cpd00443_c0_ ; 1
+Reaction368 : cpd00001_c0_ + cpd02835_c0_ -> cpd00067_c0_ + cpd00067_c0_ + cpd00091_c0_ + cpd02930_c0_ ; 1
+Reaction369 : cpd00002_c0_ + cpd00010_c0_ + cpd15237_c0_ -> cpd00012_c0_ + cpd00018_c0_ + cpd15238_c0_ ; 1
+Reaction37 : cpd11464_c0_ + cpd11492_c0_ -> cpd00011_c0_ + cpd11486_c0_ + cpd11493_c0_ ; 1
+Reaction370 : cpd00004_c0_ + cpd00054_c0_ + cpd00067_c0_ + cpd02555_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00033_c0_ + cpd02738_c0_ ; 1
+Reaction371 : cpd00085_c0_ + cpd00408_c0_ -> cpd00001_c0_ + cpd00644_c0_ ; 1
+Reaction372 : cpd00002_c0_ + cpd00067_c0_ + cpd00812_c0_ -> cpd00008_c0_ + cpd00841_c0_ ; 1
+Reaction373 : cpd02546_c0_ + cpd15550_c0_ -> cpd00046_c0_ + cpd00067_c0_ + cpd15492_c0_ ; 1
+Reaction374 : cpd00067_c0_ + cpd00067_c0_ + cpd00091_c0_ + cpd02611_c0_ -> cpd00001_c0_ + cpd00037_c0_ ; 1
+Reaction375 : cpd00067_c0_ + cpd00067_c0_ + cpd15557_c0_ -> cpd00011_c0_ + cpd15533_c0_ ; 1
+Reaction376 : cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00113_c0_ + cpd00350_c0_ -> cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00012_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02590_c0_ ; 1
+Reaction377 : cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00038_c0_ -> cpd00012_c0_ + cpd00047_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00957_c0_ ; 1
+Reaction378 : cpd00001_c0_ + cpd00002_c0_ + cpd00058_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00058_c0_ + cpd00067_c0_ ; 1
+Reaction379 : cpd00003_c0_ + cpd03372_c0_ -> cpd00004_c0_ + cpd00011_c0_ + cpd00269_c0_ ; 1
+Reaction38 : cpd00067_c0_ + cpd11472_c0_ + cpd11492_c0_ -> cpd00011_c0_ + cpd11490_c0_ + cpd11493_c0_ ; 1
+Reaction380 : cpd02448_c0_ -> cpd00404_c0_ ; 1
+Reaction381 : cpd00005_c0_ + cpd00005_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00070_c0_ + cpd01335_c0_ -> cpd00001_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00010_c0_ + cpd00011_c0_ + cpd03128_c0_ ; 1
+Reaction382 : cpd00004_c0_ + cpd00067_c0_ + cpd00125_c0_ -> cpd00003_c0_ + cpd00345_c0_ ; 1
+Reaction383 : cpd02546_c0_ + cpd02993_c0_ -> cpd00046_c0_ + cpd00067_c0_ + cpd03585_c0_ ; 1
+Reaction384 : cpd00046_c0_ + cpd00067_c0_ + cpd15526_c0_ -> cpd00001_c0_ + cpd15421_c0_ ; 1
+Reaction385 : cpd00013_c0_ + cpd00020_c0_ + cpd00067_c0_ + cpd00239_c0_ -> cpd00001_c0_ + cpd00084_c0_ ; 1
+Reaction386 : cpd00001_c0_ + cpd00347_c0_ -> cpd00067_c0_ + cpd00201_c0_ ; 1
+Reaction387 : cpd00067_c0_ + cpd00956_c0_ -> cpd00001_c0_ + cpd00011_c0_ + cpd02210_c0_ ; 1
+Reaction388 : cpd00013_c0_ + cpd00020_c0_ -> cpd00054_c0_ ; 1
+Reaction389 : cpd00002_c0_ + cpd00655_c0_ -> cpd00008_c0_ + cpd00010_c0_ + cpd00067_c0_ ; 1
+Reaction39 : cpd00067_c0_ + cpd00067_c0_ + cpd01101_c0_ -> cpd00011_c0_ + cpd00013_c0_ ; 1
+Reaction390 : cpd00002_c0_ + cpd00041_c0_ -> cpd00008_c0_ + cpd01977_c0_ ; 1
+Reaction391 : cpd00048_e0_ + cpd00067_e0_ -> cpd00048_c0_ + cpd00067_c0_ ; 1
+Reaction392 : cpd00002_c0_ + cpd00033_c0_ + cpd01982_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd02394_c0_ ; 1
+Reaction393 : cpd03495_c0_ + cpd15666_c0_ -> cpd02229_c0_ + cpd15665_c0_ ; 1
+Reaction394 : cpd00023_c0_ + cpd00502_c0_ -> cpd00087_c0_ + cpd00344_c0_ ; 1
+Reaction395 : cpd00020_c0_ + cpd00067_c0_ + cpd00102_c0_ -> cpd00011_c0_ + cpd08289_c0_ ; 1
+Reaction396 : cpd00017_c0_ + cpd03445_c0_ -> cpd00019_c0_ + cpd00067_c0_ + cpd03446_c0_ ; 1
+Reaction397 : cpd00093_c0_ + cpd00103_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd02642_c0_ ; 1
+Reaction398 : cpd00100_c0_ + cpd15430_c0_ -> cpd15540_c0_ + cpd15540_c0_ ; 1
+Reaction399 : cpd00002_c0_ + cpd00067_c0_ + cpd02775_c0_ -> cpd00008_c0_ + cpd02894_c0_ ; 1
+Reaction4 : cpd00001_e0_ -> cpd00001_c0_ ; 1
+Reaction40 : cpd00858_c0_ -> cpd00001_c0_ + cpd00067_c0_ + cpd02431_c0_ ; 1
+Reaction400 : cpd00018_c0_ + cpd00050_c0_ + cpd00067_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00015_c0_ ; 1
+Reaction401 : cpd00005_c0_ + cpd00067_c0_ + cpd00118_c0_ + cpd00346_c0_ -> cpd00001_c0_ + cpd00006_c0_ + cpd19442_c0_ ; 1
+Reaction402 : cpd00003_c0_ + cpd01646_c0_ -> cpd00004_c0_ + cpd00011_c0_ + cpd00200_c0_ ; 1
+Reaction403 : cpd00002_c0_ + cpd03918_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd03919_c0_ ; 1
+Reaction404 : cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd03587_c0_ + cpd03831_c0_ -> cpd00008_c0_ + cpd15485_c0_ ; 1
+Reaction405 : cpd00020_c0_ + cpd00020_c0_ + cpd00067_c0_ -> cpd00011_c0_ + cpd00668_c0_ ; 1
+Reaction406 : cpd00019_c0_ + cpd00067_c0_ + cpd02738_c0_ -> cpd00017_c0_ + cpd02555_c0_ ; 1
+Reaction407 : cpd00001_c0_ + cpd00002_c0_ + cpd00060_c0_ -> cpd00009_c0_ + cpd00012_c0_ + cpd00017_c0_ + cpd00067_c0_ ; 1
+Reaction408 : cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02113_c0_ + cpd15492_c0_ -> cpd00297_c0_ + cpd15489_c0_ ; 1
+Reaction409 : cpd00008_c0_ + cpd00978_c0_ -> cpd00002_c0_ + cpd00067_c0_ + cpd00299_c0_ ; 1
+Reaction41 : cpd15516_c0_ + cpd15520_c0_ -> cpd02229_c0_ + cpd15517_c0_ ; 1
+Reaction410 : cpd00004_c0_ + cpd00023_c0_ + cpd00067_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00003_c0_ + cpd02431_c0_ ; 1
+Reaction411 : cpd03584_c0_ + cpd11484_c0_ -> cpd02835_c0_ + cpd11493_c0_ ; 1
+Reaction412 : cpd00007_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02083_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00011_c0_ + cpd00011_c0_ + cpd00791_c0_ ; 1
+Reaction413 : cpd00001_c0_ + cpd11467_c0_ -> cpd11484_c0_ ; 1
+Reaction414 : cpd00001_c0_ + cpd02886_c0_ -> cpd00029_c0_ + cpd03584_c0_ ; 1
+Reaction415 : cpd00004_c0_ + cpd00067_c0_ + cpd02120_c0_ -> cpd00003_c0_ + cpd02465_c0_ ; 1
+Reaction416 : cpd01260_c0_ + cpd11493_c0_ -> cpd00010_c0_ + cpd11468_c0_ ; 1
+Reaction417 : cpd00113_c0_ -> cpd00202_c0_ ; 1
+Reaction418 : cpd00001_c0_ + cpd00003_c0_ + cpd02140_c0_ -> cpd00004_c0_ + cpd00047_c0_ + cpd00047_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02775_c0_ ; 1
+Reaction419 : cpd00136_c0_ + cpd02557_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd03443_c0_ ; 1
+Reaction42 : cpd02229_c0_ + cpd15517_c0_ -> cpd15516_c0_ + cpd15520_c0_ ; 1
+Reaction420 : cpd00004_c0_ + cpd00013_c0_ + cpd00067_c0_ + cpd00200_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00107_c0_ ; 1
+Reaction421 : cpd00067_c0_ + cpd00810_c0_ -> cpd00011_c0_ + cpd00091_c0_ ; 1
+Reaction422 : cpd00002_c0_ + cpd00018_c0_ + cpd00067_c0_ -> cpd00008_c0_ + cpd00008_c0_ ; 1
+Reaction423 : cpd00067_c0_ + cpd02311_c0_ -> cpd00001_c0_ + cpd00581_c0_ ; 1
+Reaction424 : cpd00161_c0_ -> cpd00013_c0_ + cpd00094_c0_ ; 1
+Reaction425 : cpd00067_c0_ + cpd03443_c0_ -> cpd00011_c0_ + cpd03444_c0_ ; 1
+Reaction426 : cpd00054_c0_ + cpd15421_c0_ -> cpd00046_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd15557_c0_ ; 1
+Reaction427 : cpd00004_c0_ + cpd00004_c0_ + cpd00004_c0_ + cpd00004_c0_ + cpd00004_c0_ + cpd00004_c0_ + cpd00004_c0_ + cpd00012_c0_ + cpd00018_c0_ + cpd00022_c0_ + cpd00022_c0_ + cpd00022_c0_ + cpd00022_c0_ + cpd00022_c0_ + cpd00022_c0_ + cpd00022_c0_ + cpd00022_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00982_c0_ + cpd00982_c0_ + cpd00982_c0_ + cpd00982_c0_ + cpd00982_c0_ + cpd00982_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00002_c0_ + cpd00003_c0_ + cpd00003_c0_ + cpd00003_c0_ + cpd00003_c0_ + cpd00003_c0_ + cpd00003_c0_ + cpd00003_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00010_c0_ + cpd00015_c0_ + cpd00015_c0_ + cpd00015_c0_ + cpd00015_c0_ + cpd00015_c0_ + cpd00015_c0_ + cpd15237_c0_ ; 1
+Reaction428 : cpd04103_c0_ -> cpd00001_c0_ + cpd04111_c0_ ; 1
+Reaction429 : cpd00001_c0_ + cpd00123_c0_ + cpd00125_c0_ -> cpd00087_c0_ + cpd00712_c0_ ; 1
+Reaction43 : cpd00626_c0_ -> cpd00001_c0_ + cpd00521_c0_ ; 1
+Reaction430 : cpd00003_c0_ + cpd03113_c0_ -> cpd00004_c0_ + cpd00067_c0_ + cpd03114_c0_ ; 1
+Reaction431 : cpd00004_c0_ + cpd00013_c0_ + cpd00067_c0_ + cpd00508_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd00322_c0_ ; 1
+Reaction432 : cpd00001_c0_ + cpd00002_c0_ + cpd00011_c0_ + cpd00022_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00070_c0_ ; 1
+Reaction433 : cpd00037_c0_ + cpd03494_c0_ -> cpd00014_c0_ + cpd03495_c0_ ; 1
+Reaction434 : cpd00072_c0_ + cpd00236_c0_ -> cpd00102_c0_ + cpd00238_c0_ ; 1
+Reaction435 : cpd00001_c0_ + cpd00002_c0_ + cpd00034_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00034_c0_ + cpd00067_c0_ ; 1
+Reaction436 : cpd00026_c0_ + cpd15489_c0_ -> cpd00014_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd15479_c0_ ; 1
+Reaction437 : cpd00001_c0_ + cpd02904_c0_ -> cpd00009_c0_ + cpd03423_c0_ ; 1
+Reaction438 : cpd00004_c0_ + cpd00013_c0_ + cpd00067_c0_ + cpd02121_c0_ -> cpd00001_c0_ + cpd00003_c0_ + cpd02448_c0_ ; 1
+Reaction439 : cpd00002_c0_ + cpd04920_c0_ -> cpd00012_c0_ + cpd03830_c0_ ; 1
+Reaction44 : cpd00013_e0_ -> cpd00013_c0_ ; 1
+Reaction440 : cpd00067_c0_ + cpd00343_c0_ -> cpd00001_c0_ + cpd00282_c0_ ; 1
+Reaction441 : cpd00004_c0_ + cpd00004_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00292_c0_ -> cpd00003_c0_ + cpd00003_c0_ + cpd00010_c0_ + cpd00332_c0_ ; 1
+Reaction442 : cpd00002_c0_ + cpd03002_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd02993_c0_ ; 1
+Reaction443 : cpd00005_c0_ + cpd00067_c0_ + cpd00931_c0_ -> cpd00006_c0_ + cpd02720_c0_ ; 1
+Reaction444 : cpd00067_c0_ + cpd00327_c0_ + cpd15329_c0_ -> cpd00010_c0_ + cpd15526_c0_ ; 1
+Reaction445 : cpd00001_c0_ + cpd00011_c0_ + cpd00061_c0_ -> cpd00009_c0_ + cpd00032_c0_ + cpd00067_c0_ ; 1
+Reaction446 : cpd00002_c0_ + cpd00096_c0_ -> cpd00008_c0_ + cpd00052_c0_ ; 1
+Reaction447 : cpd02884_c0_ -> cpd00001_c0_ + cpd00114_c0_ ; 1
+Reaction448 : cpd00004_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02431_c0_ -> cpd00003_c0_ + cpd00129_c0_ ; 1
+Reaction449 : cpd00216_c0_ -> cpd00658_c0_ ; 1
+Reaction45 : cpd00013_c0_ -> cpd00013_e0_ ; 1
+Reaction450 : cpd00005_c0_ + cpd00067_c0_ + cpd02820_c0_ -> cpd00006_c0_ + cpd00773_c0_ ; 1
+Reaction451 : cpd15540_c0_ + cpd15540_c0_ -> cpd00100_c0_ + cpd15793_c0_ ; 1
+Reaction452 : cpd00002_c0_ + cpd00332_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd00812_c0_ ; 1
+Reaction453 : cpd00001_c0_ + cpd00002_c0_ + cpd00011_c0_ + cpd02140_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02893_c0_ ; 1
+Reaction454 : cpd03830_c0_ -> cpd03831_c0_ ; 1
+Reaction455 : cpd00013_c0_ + cpd00347_c0_ -> cpd00067_c0_ + cpd00067_c0_ + cpd00502_c0_ ; 1
+Reaction456 : cpd00002_c0_ + cpd00046_c0_ + cpd00067_c0_ -> cpd00008_c0_ + cpd00096_c0_ ; 1
+Reaction457 : cpd00201_c0_ + cpd02851_c0_ -> cpd00087_c0_ + cpd02884_c0_ ; 1
+Reaction458 : cpd00002_c0_ + cpd00297_c0_ -> cpd00008_c0_ + cpd00357_c0_ ; 1
+Reaction459 : cpd00026_c0_ + cpd15479_c0_ -> cpd00014_c0_ + cpd15469_c0_ ; 1
+Reaction46 : cpd09027_c0_ -> cpd00011_c0_ + cpd01567_c0_ ; 1
+Reaction460 : cpd00095_c0_ + cpd03470_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00009_c0_ + cpd02333_c0_ ; 1
+Reaction461 : cpd00001_c0_ + cpd00061_c0_ + cpd00817_c0_ -> cpd00009_c0_ + cpd02730_c0_ ; 1
+Reaction462 : cpd00010_c0_ + cpd03114_c0_ -> cpd00022_c0_ + cpd01695_c0_ ; 1
+Reaction463 : cpd03831_c0_ + cpd15477_c0_ -> cpd00008_c0_ + cpd15432_c0_ ; 1
+Reaction464 : cpd00053_c0_ + cpd00102_c0_ + cpd00171_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd00009_c0_ + cpd00016_c0_ + cpd00023_c0_ + cpd00067_c0_ ; 1
+Reaction465 : cpd00113_c0_ + cpd00202_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd00283_c0_ ; 1
+Reaction466 : cpd00005_c0_ + cpd00005_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00070_c0_ + cpd03128_c0_ -> cpd00001_c0_ + cpd00006_c0_ + cpd00006_c0_ + cpd00010_c0_ + cpd00011_c0_ + cpd01260_c0_ ; 1
+Reaction467 : cpd00002_c0_ + cpd00013_c0_ + cpd00041_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00132_c0_ ; 1
+Reaction468 : cpd03451_c0_ -> cpd00001_c0_ + cpd01772_c0_ ; 1
+Reaction469 : cpd00002_c0_ + cpd02826_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd02140_c0_ ; 1
+Reaction47 : cpd00004_c0_ + cpd00007_c0_ + cpd00067_c0_ + cpd00333_c0_ -> cpd00003_c0_ + cpd09253_c0_ ; 1
+Reaction470 : cpd00106_c0_ + cpd15353_c0_ -> cpd00036_c0_ + cpd15352_c0_ ; 1
+Reaction471 : cpd00020_c0_ + cpd00346_c0_ -> cpd00001_c0_ + cpd00001_c0_ + cpd00067_c0_ + cpd02120_c0_ ; 1
+Reaction472 : cpd00001_c0_ + cpd02730_c0_ -> cpd00009_c0_ + cpd00875_c0_ ; 1
+Reaction473 : cpd02295_c0_ + cpd02557_c0_ -> cpd00011_c0_ + cpd00012_c0_ + cpd15353_c0_ ; 1
+Reaction474 : cpd00002_c0_ + cpd00041_c0_ + cpd02893_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd02921_c0_ ; 1
+Reaction475 : cpd00002_c0_ + cpd00023_c0_ + cpd00683_c0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00330_c0_ ; 1
+Reaction476 : cpd00002_c0_ + cpd00067_c0_ + cpd00091_c0_ -> cpd00008_c0_ + cpd00014_c0_ ; 1
+Reaction477 : cpd00001_c0_ + cpd03126_c0_ -> cpd03113_c0_ ; 1
+Reaction478 : cpd00919_c0_ -> cpd00001_c0_ + cpd02483_c0_ ; 1
+Reaction479 : cpd00171_c0_ -> cpd00101_c0_ ; 1
+Reaction48 : cpd00067_c0_ + cpd10596_c0_ -> cpd00011_c0_ + cpd02100_c0_ ; 1
+Reaction480 : cpd00005_c0_ + cpd00067_c0_ + cpd00712_c0_ -> cpd00006_c0_ + cpd00408_c0_ ; 1
+Reaction481 : cpd00004_c0_ + cpd00011_c0_ + cpd00022_c0_ -> cpd00003_c0_ + cpd00010_c0_ + cpd00191_c0_ ; 1
+Reaction482 : cpd00067_c0_ + cpd00219_c0_ -> cpd00001_c0_ + cpd00011_c0_ + cpd00143_c0_ ; 1
+Reaction483 : cpd00002_c0_ + cpd00067_c0_ + cpd00126_c0_ -> cpd00008_c0_ + cpd00031_c0_ ; 1
+Reaction484 : cpd00006_c0_ + cpd00125_c0_ -> cpd00005_c0_ + cpd00347_c0_ ; 1
+Reaction49 : cpd00002_c0_ + cpd00541_c0_ -> cpd00012_c0_ + cpd14955_c0_ ; 1
+Reaction5 : cpd00001_c0_ -> cpd00001_e0_ ; 1
+Reaction50 : cpd00001_c0_ + cpd00002_c0_ + cpd00210_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00210_c0_ ; 1
+Reaction51 : cpd00001_c0_ + cpd00083_c0_ -> cpd00031_c0_ + cpd00138_c0_ ; 1
+Reaction52 : cpd00031_c0_ + cpd00138_c0_ -> cpd00001_c0_ + cpd00083_c0_ ; 1
+Reaction53 : cpd02074_c0_ -> cpd00001_c0_ + cpd00067_c0_ + cpd00922_c0_ ; 1
+Reaction54 : cpd00004_c0_ + cpd00007_c0_ + cpd00067_c0_ + cpd03343_c0_ -> cpd00003_c0_ + cpd08405_c0_ ; 1
+Reaction55 : cpd02414_c0_ -> cpd00001_c0_ + cpd00067_c0_ + cpd02465_c0_ ; 1
+Reaction56 : cpd00092_c0_ + cpd00101_c0_ -> cpd00001_c0_ + cpd00859_c0_ ; 1
+Reaction57 :  -> cpd17041_c0_ ; 1
+Reaction58 : cpd00067_e0_ + cpd00164_e0_ -> cpd00067_c0_ + cpd00164_c0_ ; 1
+Reaction59 : cpd00067_c0_ + cpd00164_c0_ -> cpd00067_e0_ + cpd00164_e0_ ; 1
+Reaction6 : cpd00022_c0_ + cpd00022_c0_ -> cpd00010_c0_ + cpd00279_c0_ ; 1
+Reaction60 : cpd00067_e0_ + cpd00309_e0_ -> cpd00067_c0_ + cpd00309_c0_ ; 1
+Reaction61 : cpd00067_c0_ + cpd00309_c0_ -> cpd00067_e0_ + cpd00309_e0_ ; 1
+Reaction62 : cpd00002_c0_ + cpd15466_c0_ -> cpd00008_c0_ + cpd16277_c0_ ; 1
+Reaction63 : cpd15520_c0_ + cpd15520_c0_ -> cpd02229_c0_ + cpd15516_c0_ ; 1
+Reaction64 : cpd02229_c0_ + cpd15516_c0_ -> cpd15520_c0_ + cpd15520_c0_ ; 1
+Reaction65 : cpd00067_e0_ + cpd00280_e0_ -> cpd00067_c0_ + cpd00280_c0_ ; 1
+Reaction66 : cpd00067_c0_ + cpd00280_c0_ -> cpd00067_e0_ + cpd00280_e0_ ; 1
+Reaction67 : cpd00001_c0_ + cpd00001_c0_ + cpd00001_c0_ + cpd02978_c0_ -> cpd00009_c0_ + cpd00009_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd02961_c0_ ; 1
+Reaction68 : cpd00067_e0_ + cpd00653_e0_ -> cpd00067_c0_ + cpd00653_c0_ ; 1
+Reaction69 : cpd00067_c0_ + cpd00653_c0_ -> cpd00067_e0_ + cpd00653_e0_ ; 1
+Reaction7 : cpd00010_c0_ + cpd00020_c0_ + cpd11621_c0_ -> cpd00011_c0_ + cpd00022_c0_ + cpd00067_c0_ + cpd11620_c0_ ; 1
+Reaction70 : cpd00001_c0_ + cpd00002_c0_ + cpd00254_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd00254_c0_ ; 1
+Reaction71 : cpd11421_c0_ + cpd15498_c0_ -> cpd00001_c0_ + cpd00060_c0_ + cpd11420_c0_ ; 1
+Reaction72 : cpd00001_c0_ + cpd00060_c0_ + cpd11420_c0_ -> cpd11421_c0_ + cpd15498_c0_ ; 1
+Reaction73 : cpd00001_c0_ + cpd08625_c0_ -> cpd00011_c0_ + cpd00067_c0_ + cpd01567_c0_ ; 1
+Reaction74 : cpd00002_c0_ -> cpd00012_c0_ + cpd00067_c0_ + cpd00446_c0_ ; 1
+Reaction75 : cpd15559_c0_ -> cpd15466_c0_ ; 1
+Reaction76 : cpd15466_c0_ -> cpd15559_c0_ ; 1
+Reaction77 : cpd03423_c0_ + cpd03920_c0_ -> cpd00067_c0_ + cpd00126_c0_ + cpd00166_c0_ ; 1
+Reaction78 : cpd00067_c0_ + cpd00126_c0_ + cpd00166_c0_ -> cpd03423_c0_ + cpd03920_c0_ ; 1
+Reaction79 : cpd00001_c0_ + cpd00002_c0_ + cpd10516_e0_ -> cpd00008_c0_ + cpd00009_c0_ + cpd00067_c0_ + cpd10516_c0_ ; 1
+Reaction8 : cpd00067_e0_ + cpd00159_e0_ -> cpd00067_c0_ + cpd00159_c0_ ; 1
+Reaction80 : cpd00067_c0_ + cpd02605_c0_ -> cpd00011_c0_ + cpd00200_c0_ ; 1
+Reaction81 : cpd02692_c0_ -> cpd00001_c0_ + cpd02333_c0_ ; 1
+Reaction82 : cpd00042_c0_ + cpd00055_c0_ -> cpd09879_c0_ ; 1
+Reaction83 : cpd09879_c0_ -> cpd00042_c0_ + cpd00055_c0_ ; 1
+Reaction84 : cpd00003_c0_ + cpd00169_c0_ -> cpd00004_c0_ + cpd00067_c0_ + cpd02069_c0_ ; 1
+Reaction85 : cpd00004_c0_ + cpd00067_c0_ + cpd02069_c0_ -> cpd00003_c0_ + cpd00169_c0_ ; 1
+Reaction86 : cpd00254_c0_ -> cpd00254_e0_ ; 1
+Reaction87 : cpd00254_e0_ -> cpd00254_c0_ ; 1
+Reaction88 : cpd00001_c0_ + cpd08625_c0_ -> cpd00011_c0_ + cpd00067_c0_ + cpd01092_c0_ ; 1
+Reaction89 : cpd00067_e0_ + cpd00092_e0_ -> cpd00067_c0_ + cpd00092_c0_ ; 1
+Reaction9 : cpd00067_c0_ + cpd00159_c0_ -> cpd00067_e0_ + cpd00159_e0_ ; 1
+Reaction90 : cpd00067_c0_ + cpd00092_c0_ -> cpd00067_e0_ + cpd00092_e0_ ; 1
+Reaction91 : cpd00116_e0_ -> cpd00116_c0_ ; 1
+Reaction92 : cpd00116_c0_ -> cpd00116_e0_ ; 1
+Reaction93 : cpd00067_e0_ + cpd00151_e0_ -> cpd00067_c0_ + cpd00151_c0_ ; 1
+Reaction94 : cpd00067_c0_ + cpd00151_c0_ -> cpd00067_e0_ + cpd00151_e0_ ; 1
+Reaction95 : cpd00067_e0_ + cpd00208_e0_ -> cpd00067_c0_ + cpd00208_c0_ ; 1
+Reaction96 : cpd00067_c0_ + cpd00208_c0_ -> cpd00067_e0_ + cpd00208_e0_ ; 1
+Reaction97 : cpd00067_e0_ + cpd00396_e0_ -> cpd00067_c0_ + cpd00396_c0_ ; 1
+Reaction98 : cpd00067_c0_ + cpd00396_c0_ -> cpd00067_e0_ + cpd00396_e0_ ; 1
+Reaction99 : cpd00067_e0_ + cpd00383_e0_ -> cpd00067_c0_ + cpd00383_c0_ ; 1

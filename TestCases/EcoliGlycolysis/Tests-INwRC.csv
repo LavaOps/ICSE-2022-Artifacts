@@ -1,0 +1,13 @@
+TestName,TestType,Property
+A12,1,(1)*vT(Reaction1) + (-1)*vT(cpd00089_c0_) == (1)*vZ(Reaction1) + (-1)*vZ(cpd00089_c0_)
+A13,1,(1)*vT(Reaction10) + (-1)*vT(cpd00020_c0_) == (1)*vZ(Reaction10) + (-1)*vZ(cpd00020_c0_)
+A14,1,(1)*vT(Reaction11) + (-1)*vT(cpd00029_c0_) == (1)*vZ(Reaction11) + (-1)*vZ(cpd00029_c0_)
+A15,1,(1)*vT(Reaction12) + (-1)*vT(cpd11621_c0_) == (1)*vZ(Reaction12) + (-1)*vZ(cpd11621_c0_)
+A16,1,(2)*vT(Reaction2) + (-1)*vT(cpd00004_c0_) + (-2)*vT(cpd00072_c0_) + (-1)*vT(cpd00095_c0_) + (-1)*vT(cpd00102_c0_) + (-2)*vT(cpd00290_c0_) + (1)*vT(cpd11621_c0_) == (2)*vZ(Reaction2) + (-1)*vZ(cpd00004_c0_) + (-2)*vZ(cpd00072_c0_) + (-1)*vZ(cpd00095_c0_) + (-1)*vZ(cpd00102_c0_) + (-2)*vZ(cpd00290_c0_) + (1)*vZ(cpd11621_c0_)
+A17,1,(2)*vT(Reaction3) + (-1)*vT(cpd00004_c0_) + (-1)*vT(cpd00095_c0_) + (-1)*vT(cpd00102_c0_) + (-2)*vT(cpd00290_c0_) + (1)*vT(cpd11621_c0_) == (2)*vZ(Reaction3) + (-1)*vZ(cpd00004_c0_) + (-1)*vZ(cpd00095_c0_) + (-1)*vZ(cpd00102_c0_) + (-2)*vZ(cpd00290_c0_) + (1)*vZ(cpd11621_c0_)
+A18,1,(2)*vT(Reaction4) + (-1)*vT(cpd00004_c0_) + (1)*vT(cpd00095_c0_) + (-1)*vT(cpd00102_c0_) + (1)*vT(cpd11621_c0_) == (2)*vZ(Reaction4) + (-1)*vZ(cpd00004_c0_) + (1)*vZ(cpd00095_c0_) + (-1)*vZ(cpd00102_c0_) + (1)*vZ(cpd11621_c0_)
+A19,1,(2)*vT(Reaction5) + (-1)*vT(cpd00004_c0_) + (-1)*vT(cpd00095_c0_) + (-1)*vT(cpd00102_c0_) + (1)*vT(cpd11621_c0_) == (2)*vZ(Reaction5) + (-1)*vZ(cpd00004_c0_) + (-1)*vZ(cpd00095_c0_) + (-1)*vZ(cpd00102_c0_) + (1)*vZ(cpd11621_c0_)
+A20,1,(1)*vT(Reaction6) + (-1)*vT(cpd00004_c0_) == (1)*vZ(Reaction6) + (-1)*vZ(cpd00004_c0_)
+A21,1,(1)*vT(Reaction7) + (-1)*vT(cpd00004_c0_) + (1)*vT(cpd00203_c0_) == (1)*vZ(Reaction7) + (-1)*vZ(cpd00004_c0_) + (1)*vZ(cpd00203_c0_)
+A22,1,(1)*vT(Reaction8) + (-1)*vT(cpd00001_c0_) + (-1)*vT(cpd00482_c0_) + (1)*vT(cpd11621_c0_) == (1)*vZ(Reaction8) + (-1)*vZ(cpd00001_c0_) + (-1)*vZ(cpd00482_c0_) + (1)*vZ(cpd11621_c0_)
+A23,1,(1)*vT(Reaction9) + (-1)*vT(cpd00001_c0_) + (1)*vT(cpd11621_c0_) == (1)*vZ(Reaction9) + (-1)*vZ(cpd00001_c0_) + (1)*vZ(cpd11621_c0_)

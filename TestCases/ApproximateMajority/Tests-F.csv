@@ -1,0 +1,2 @@
+TestName,TestType,Property
+A1,1,(1)*vT(U) + (1)*vT(X1) + (1)*vT(X2) == (1)*vZ(U) + (1)*vZ(X1) + (1)*vZ(X2)

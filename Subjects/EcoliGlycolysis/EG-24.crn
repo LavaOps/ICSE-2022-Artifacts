@@ -1,0 +1,12 @@
+Reaction1 : cpd00079_c0_ -> cpd00089_c0_ ; 1
+Reaction10 : cpd00008_c0_ + cpd00061_c0_ + cpd00067_c0_ -> cpd00002_c0_ + cpd00020_c0_ ; 1
+Reaction11 : cpd00008_c0_ + cpd00009_c0_ + cpd00022_c0_ -> cpd00002_c0_ + cpd00010_c0_ + cpd00029_c0_ ; 1
+Reaction12 : cpd00067_c0_ + cpd00067_c0_ + cpd00067_c0_ + cpd00169_c0_ + cpd11620_c0_ -> cpd00001_c0_ + cpd00102_c0_ + cpd11621_c0_ ; 1
+Reaction2 : cpd00079_c0_ -> cpd00003_c0_ ; 1
+Reaction3 : cpd00002_c0_ + cpd00072_c0_ -> cpd00008_c0_ + cpd00067_c0_ + cpd00290_c0_ ; 1
+Reaction4 : cpd00095_c0_ -> cpd00102_c0_ ; 1
+Reaction5 : cpd00290_c0_ -> cpd00095_c0_ + cpd00102_c0_ ; 1
+Reaction6 : cpd00003_c0_ + cpd00009_c0_ + cpd00102_c0_ -> cpd00004_c0_ + cpd00067_c0_ + cpd00203_c0_ ; 1
+Reaction7 : cpd00008_c0_ + cpd00203_c0_ -> cpd00002_c0_ + cpd00169_c0_ ; 1
+Reaction8 : cpd00169_c0_ -> cpd00482_c0_ ; 1
+Reaction9 : cpd00482_c0_ -> cpd00001_c0_ + cpd00061_c0_ ; 1

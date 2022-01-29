@@ -1,0 +1,13 @@
+Citation
+
+```bibtex
+@inproceedings{gerten:ICSE2022,
+  author          = {Michael C. Gerten and Alexis L. Marsh and James I. Lathrop and Myra B. Cohen and Andrew S. Miner and Titus H. Klinge},
+  booktitle       = {IEEE/ACM International Conference on Software Engineering (ICSE)},
+  title           = {Inference and Test Generation Using Program Invariants in Chemical Reaction Networks},
+  month           = {may},
+  year            = {2022},
+  doi             = {https://doi.org/10.1145/3510003.3510176},
+  abstract        ={},
+}
+```

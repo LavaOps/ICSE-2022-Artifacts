@@ -1,0 +1,13 @@
+# Requirements
+
+## Software
+
+This package requires the following software:
+	- Docker 4.4.4 
+	- Text Editor of user's choice
+
+## Hardware
+
+This artifact package has the following hardware requirements:
+	- Enough storage space to hold the package, approximately 7GB
+	- Hardware that supports Docker 4.4.4. Details to what the current requirements are can be found at https://docs.docker.com/desktop/ .

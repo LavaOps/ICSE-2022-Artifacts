@@ -1,0 +1,4 @@
+TestName,TestType,Property
+A10,1,(1)*vT(CE) + (1)*vT(Reaction10) + (-1)*vT(Reaction13) + (-1)*vT(Y) == (1)*vZ(CE) + (1)*vZ(Reaction10) + (-1)*vZ(Reaction13) + (-1)*vZ(Y)
+A11,1,(-1)*vT(CE) + (1)*vT(Reaction11) + (-1)*vT(Reaction12) == (-1)*vZ(CE) + (1)*vZ(Reaction11) + (-1)*vZ(Reaction12)
+A12,1,(-1)*vT(F) + (1)*vT(Reaction8) + (-2)*vT(Reaction9) == (-1)*vZ(F) + (1)*vZ(Reaction8) + (-2)*vZ(Reaction9)

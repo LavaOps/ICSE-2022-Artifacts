@@ -1,0 +1,2 @@
+TestName,TestType,Property
+A3,1,(1)*vT(Reaction3) + (-3)*vT(Reaction4) + (-3)*vT(Reaction5) + (-3)*vT(V) + (-1)*vT(X) + (-1)*vT(Y) == (1)*vZ(Reaction3) + (-3)*vZ(Reaction4) + (-3)*vZ(Reaction5) + (-3)*vZ(V) + (-1)*vZ(X) + (-1)*vZ(Y)

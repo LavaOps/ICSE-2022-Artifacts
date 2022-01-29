@@ -1,0 +1,5 @@
+TestName,TestType,Property
+M1,1,vZ(X) == vT(Z)
+M6,1,vT(Y) == 0 && vT(X) == 0
+M7,1,vT(YP) == 0
+M11,2,vT2(Z) > vT1(Z)

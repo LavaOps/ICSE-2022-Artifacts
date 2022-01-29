@@ -1,0 +1,7 @@
+TestName,TestType,Property
+ASE2,1,vT(Y) == 3 *  vZ(X1) + 1
+ASE3,1,vT(Y) == 0
+ASE4,1,vT(PO) + vT(PE) == 1
+ASE7,2,vT2(Y) > vT1(Y)
+ASE8,2,vT2(Y) < vT1(Y)
+M16,2,vT2(Y) < vT1(Y)

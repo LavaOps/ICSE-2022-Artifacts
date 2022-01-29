@@ -1,0 +1,7 @@
+TestName,TestType,Property
+A4,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) + (-3)*vT(M) + (3)*vT(Reaction1) == (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO) + (-3)*vZ(M) + (3)*vZ(Reaction1)
+A5,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) + (-3)*vT(M) + (3)*vT(PO) + (6)*vT(Reaction2) == (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO) + (-3)*vZ(M) + (3)*vZ(PO) + (6)*vZ(Reaction2)
+A6,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) + (-3)*vT(M) + (6)*vT(PE) + (3)*vT(PO) + (6)*vT(Reaction3) + (6)*vT(Reaction4) == (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO) + (-3)*vZ(M) + (6)*vZ(PE) + (3)*vZ(PO) + (6)*vZ(Reaction3) + (6)*vZ(Reaction4)
+A7,1,(1)*vT(CO) + (-1)*vT(D) + (1)*vT(Reaction5) + (-1)*vT(Y) == (1)*vZ(CO) + (-1)*vZ(D) + (1)*vZ(Reaction5) + (-1)*vZ(Y)
+A8,1,(-1)*vT(A) + (1)*vT(B) + (-1)*vT(CO) + (3)*vT(Reaction6) == (-1)*vZ(A) + (1)*vZ(B) + (-1)*vZ(CO) + (3)*vZ(Reaction6)
+A9,1,(-1)*vT(A) + (2)*vT(B) + (-1)*vT(CO) + (2)*vT(Reaction7) == (-1)*vZ(A) + (2)*vZ(B) + (-1)*vZ(CO) + (2)*vZ(Reaction7)

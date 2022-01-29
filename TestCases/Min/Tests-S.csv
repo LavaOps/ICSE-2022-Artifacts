@@ -1,0 +1,13 @@
+TestName,TestType,Property
+M1,1,vZ(Y) == vT(Z)
+M2,1,vZ(X) == vT(Z)
+M3,1,vT(Z) == 0
+M4,1,vT(Y) == 0
+M5,1,vT(X) == vZ(X) - vZ(Y)
+M6,1,vT(X) + vT(Z) == vZ(X) + vZ(Y)
+M7,1,vT(X) == 0
+M8,1,vT(Y) == vZ(Y) - vZ(X)
+M9,1,vT(Y) + vT(Z) == vZ(X) + vZ(Y)
+M10,2,vT2(Z) == vT1(Z)
+M11,2,vT2(Z) == vT1(Z)
+M12,2,vT2(Z) == vT1(Z)

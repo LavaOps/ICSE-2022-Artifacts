@@ -1,0 +1,40 @@
+# Replication package for Inference and Test Generation Using Program Invariants in Chemical Reaction Networks - ICSE 2022
+
+All files included are described below.
+
+Requirements to run the programs are described in `REQUIREMENTS.txt`.
+
+The ChemFlow tool enables the generation of invariants from Stochastic Chemical Reaction Networks (CRNs). These invariants are used as tests.
+These test suites are then evaluated against generated mutations of known CRNs to evaluate their effectiveness.
+We provide specification-based test suites for 9 CRNs as well in a comparison against current testing approaches for CRNs. 
+
+For additional information or question, contact the first author by e-mail: Michael Gerten \<mcgerten@iastate.edu\>
+
+## Contents
+
+
+### "Docker" directory
+
+This directory contains the code and data objects to generate invariants used in the paper. We include the script used to evaluate the simulation data.
+Instructions on usage are included in `INSTALL.txt`
+
+### "Docker/SimulationData" directory
+
+This directory contains the output of the testing framework in Matlab Simbiology. We provide the data output as we are unable to provide the software to recreate the simulations due to licensing restrictions on Matlab Simbiology. The results of each test suite on the 13 subjects is included. 
+
+### "Docker/SummaryProgram" directory
+
+This directory contains the python script which generates Table 4 in our paper. This analysis is executed on the data in the `SimulationData` directory.
+
+### "Subjects" directory
+
+This directory contains the subjects from the study. 
+Each subject directory contains the "golden" or correct model and mutants generated to evaluate the test suites.
+
+### "TestCases"
+
+This directory contains the files used to generate test cases in Matlab for each subject. 
+
+1. The specifications for the specification-based tests
+2. The inputs used for both the specification and invariant tests
+3. The mapping of inputs to test cases, defining which tests used which generated inputs.

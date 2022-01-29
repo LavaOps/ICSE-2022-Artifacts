@@ -1,0 +1,3 @@
+TestName,TestType,Property
+A1,1,(1)*vT(F1) + (1)*vT(F1P) + (1)*vT(Y) == (1)*vZ(F1) + (1)*vZ(F1P) + (1)*vZ(Y)
+A2,1,(1)*vT(F2) + (1)*vT(F2P) + (1)*vT(Y) == (1)*vZ(F2) + (1)*vZ(F2P) + (1)*vZ(Y)
