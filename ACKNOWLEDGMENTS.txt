@@ -1,1 +1,6 @@
-Grant Information will be added on publication
+We would like to thank C. Henry, J.P. Faria and B. Cottingham for
+feedback and discussions on the E. coli invariants.
+This material is based upon work supported by the National Science Foundation under Grant  CCF #1909688 and FET #1900716.
+
+
+Disclaimer: “Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.”
