@@ -60,14 +60,14 @@ To exit the container, the following command closes the current Bash shell.
 
 ## Output
 
-As described above, the crn_flows program requires a single parameter that defines the CRN to analyze. The format of this file is text based, and a simple example of a CRN file is given by the Subtraction.crn file.
+As described above, the chem_flows program requires a single parameter that defines the CRN to analyze. The format of this file is text based, and a simple example of a CRN file is given by the Subtraction.crn file.
 The command below analyzes the subtration CRN to find the invariants.
 
 ```bash
 ./chem_flows Subjects/Subtraction.crn 
 ```
 
-We now discuss the output format of the crn_flows program. Chem_flows takes two passes through the input file; the first pass preprocesses the model file and displays information as to its complexity, and the 2nd pass generates the invariants for the model.
+We now discuss the output format of the chem_flows program. Chem_flows takes two passes through the input file; the first pass preprocesses the model file and displays information as to its complexity, and the 2nd pass generates the invariants for the model.
 
  Chem_Flows outputs for the subtraction CRN is shown below.
 
