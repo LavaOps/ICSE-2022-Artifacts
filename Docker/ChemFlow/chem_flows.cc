@@ -6,7 +6,6 @@
 
 using namespace std;
 
-
 int main(int argc, const char** argv)
 {
   if (argc != 2) {
@@ -59,17 +58,13 @@ int main(int argc, const char** argv)
   }
 #endif
 
-  int** matrix;
   // there are P rows
   // each row is a vector of the form
   // [ #trans | #places ]
-  matrix = new int* [places];
+  row* matrix = new row [places];
   for (i=0; i<places; i++) {
-    matrix[i] = new int[places + trans];
-    for (int j=places+trans-1; j>=0; j--) {
-      matrix[i][j] = 0;
-    }
-    matrix[i][trans+i] = -1;
+		matrix[i].set_width(places+trans);
+    matrix[i].add_elem(trans+i, -1);
   }
 
   fprintf(stderr, "Pass 2\n");
@@ -78,7 +73,7 @@ int main(int argc, const char** argv)
 
   P.parse_file();
 
-  matrixElimStd(matrix, trans, places);
+  matrixElim(matrix, places, places+trans);
 
   printf("Flows (== constant):\n");
   for (i=0; i<places; i++) 
@@ -103,6 +98,11 @@ int main(int argc, const char** argv)
       fputc('\t', stdout);
       showRow(matrix[i], index2species, Reactions);
     }
+
+	//
+	// Cleanup
+	//
+	delete[] matrix;
 
 
   return 0;

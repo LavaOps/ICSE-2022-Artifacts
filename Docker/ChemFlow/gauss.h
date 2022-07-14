@@ -1,19 +1,16 @@
+#ifndef GAUSS_H
+#define GAUSS_H
 
-void dumpMatrix(int** matrix, unsigned places, unsigned trans, unsigned supplement);
-
-void matrixElimination(int** matrix, unsigned places, unsigned trans, unsigned& supplement);
+#include "row.h"
 
 /**
     Reduce a matrix using "standard" Gaussian elimination.
     @param  matrix  Matrix with integer coefficients,
                     as an array of row vectors.
-                    Each row vector is of dimension \a trans + \a places.
-                    There are \a places rows.
-
-    @param  trans   Number of transitions / reactions
-    @param  places  Number of places / species
+    @param  nrows   Number of rows
+		@param	ncols		Number of columns
 */
-void matrixElimStd(int** matrix, unsigned trans, unsigned places);
+void matrixElim(row* matrix, unsigned nrows, unsigned ncols);
 
 /**
   Check if a given vector belongs to a vector space, given as a basis.
@@ -30,8 +27,9 @@ void matrixElimStd(int** matrix, unsigned trans, unsigned places);
           false otherwise.
 */
 bool belongsToVectorSpace(
-  int* vector, 
-  const int* const* basis, 
+  row& vector, 
+  const row* basis, 
   unsigned numrows, 
   unsigned numcols);
 
+#endif

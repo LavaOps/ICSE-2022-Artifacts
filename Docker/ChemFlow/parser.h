@@ -3,6 +3,7 @@
 #define PARSER_H
 
 #include "lexer.h"
+#include "row.h"
 
 #include <vector>
 #include <unordered_map>
@@ -14,14 +15,14 @@ class parser {
     std::unordered_map<std::string, unsigned> &Species;
     std::vector<std::string> &Reactions;
 
-    int** A;
+    row* A;
 
   public:
     parser( lexer &_L, 
             std::unordered_map<std::string, unsigned> &_S, 
             std::vector<std::string> &_R);
 
-    inline void set_matrix(int** _A) {
+    inline void set_matrix(row* _A) {
       A = _A;
     }
 

@@ -3,12 +3,12 @@
 
 // #define FANCY_OUT
 
-eqtype invariantType(const int* row, unsigned trans, unsigned places)
+eqtype invariantType(const row& r, unsigned trans, unsigned places)
 {
   int sign = 0;
   for (unsigned i=0; i<trans; i++) {
-    if (0==row[i]) continue;
-    int rsign = (row[i] > 0) ? 1 : -1;
+    if (0==r[i]) continue;
+    int rsign = (r[i] > 0) ? 1 : -1;
     if (0==sign) {
       sign = rsign;
     } else {
@@ -17,45 +17,45 @@ eqtype invariantType(const int* row, unsigned trans, unsigned places)
   }
   if (sign) return eqtype::INEQUALITY;
   for (unsigned i=trans; i<trans+places; i++) {
-    if (row[i]) return eqtype::FLOW;
+    if (r[i]) return eqtype::FLOW;
   }
   return eqtype::EMPTY;
 }
 
 
-inline void showWeight(bool printed, int wt)
+inline void showWeight(bool printed, long wt)
 {
+	using namespace std;
   if (wt < 0) {
 #ifdef FANCY_OUT
-    fputc('-', stdout);
-    if (printed) fputc(' ', stdout);
-    if (wt < -1) printf("%d", -wt);
+		cout << "-";
+    if (printed) cout << " ";
+    if (wt < -1) cout << -wt;
 #else
-    printf("%d ", wt);
+		cout << wt << " ";
 #endif
   } else {
 #ifdef FANCY_OUT
-    if (printed) fputs("+ ", stdout);
-    if (wt > 1)  printf("%d", wt);
+    if (printed) cout << "+ ";
+    if (wt > 1)  cout << wt;
 #else
-    printf("+%d ", wt);
+		cout << "+" << wt << " ";
 #endif
   }
 }
 
 
-void showRow(const int* row, 
+void showRow(const row& r, 
   const std::vector<const char*> &placename,
   const std::vector<std::string> &transname)
 {
-  if (0==row) return;
   bool printed = false;
   unsigned i;
   const unsigned places = placename.size();
   const unsigned trans = transname.size();
   for (i=0; i<trans; i++) {
-    if (0==row[i]) continue;
-    showWeight(printed, row[i]);
+    if (0==r[i]) continue;
+    showWeight(printed, r[i]);
 #ifdef INDEX_OUT
     printf(" r%u", i);
 #else
@@ -65,8 +65,8 @@ void showRow(const int* row,
     printed = true;
   }
   for (; i<places+trans; i++) {
-    if (0==row[i]) continue;
-    showWeight(printed, row[i]);
+    if (0==r[i]) continue;
+    showWeight(printed, r[i]);
 #ifdef INDEX_OUT
     printf(" s%u", i-trans);
 #else

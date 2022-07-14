@@ -4,6 +4,7 @@
 
 #include <string>
 #include <vector>
+#include "row.h"
 
 enum class eqtype {
   EMPTY,      // empty row
@@ -16,12 +17,12 @@ enum class eqtype {
 /*
   Determine equation type based on transition coefficients.
 */
-eqtype invariantType(const int* row, unsigned trans, unsigned places);
+eqtype invariantType(const row& r, unsigned trans, unsigned places);
 
 /*
   Display an equation
 */
-void showRow(const int* row, 
+void showRow(const row& r, 
   const std::vector<const char*> &placename,
   const std::vector<std::string> &transname);
 

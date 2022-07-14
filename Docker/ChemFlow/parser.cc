@@ -119,7 +119,7 @@ bool parser::parse_reaction(unsigned t)
     } else {
       // Species with cardinality 1.
       p = get_species_index(ident);
-      if (A) A[p][t] -= 1;
+      if (A) A[p].add_elem(t, -1);
       parse_debug("Got species %s\n", ident);
 
       if ('+' == L.next_token()) {
@@ -162,7 +162,7 @@ bool parser::parse_reaction(unsigned t)
     parse_debug("Got next reactant %d %s\n", cardinality, L.next_text());
     
     p = get_species_index(L.next_text());
-    if (A) A[p][t] -= cardinality;
+    if (A) A[p].add_elem(t, -cardinality);
 
     L.consume_token();
 
@@ -211,7 +211,7 @@ bool parser::parse_reaction(unsigned t)
     parse_debug("Got next reactant %d %s\n", cardinality, L.next_text());
     
     p = get_species_index(L.next_text());
-    if (A) A[p][t] += cardinality;
+    if (A) A[p].add_elem(t, cardinality);
 
     L.consume_token();
 
