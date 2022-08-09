@@ -1,5 +1,3 @@
-Citation
-
 ```bibtex
 @INPROCEEDINGS{9794130,
   author={Gerten, Michael C. and Marsh, Alexis L. and Lathrop, James I. and Cohen, Myra B. and Miner, Andrew S. and Klinge, Titus H.},
